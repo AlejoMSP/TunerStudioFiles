@@ -1,0 +1,6 @@
+#Persisted Channels storage file  by EFI Analytics, Inc
+#Last Saved on: Tue Dec 19 14:22:17 EST 2023
+#Tue Dec 19 14:22:17 EST 2023
+_(\ (\ tsInputSpeedMPH\ *\ 1.60934\ )\ /\ 3600.0\ *\ deltatime\ )=0.0
+_(\ (\ deltatime\ <\ 1000.0\ )\ )\ ?\ ((\ (\ tsFuelFlowGph\ *\ deltatime\ /\ 3600.0\ )\ ))\ \:\ (0.0)=5.437679108480149E-4
+_(\ tsInputSpeedMPH\ /\ 3600.0\ *\ deltatime\ )=0.0

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tableData xmlns="http://www.EFIAnalytics.com/:table">
+<bibliography author="EFI Analytics - philip.tobin@yahoo.com" company="EFI Analytics, copyright 2010, All Rights Reserved." writeDate="Thu Sep 15 20:37:29 EDT 2022"/>
+<versionInfo fileFormat="1.0"/>
+<table cols="3" rows="3">
+<xAxis cols="3" name="rpm">
+         800 
+         1800 
+         7500 
+      </xAxis>
+<yAxis name="fuelload" rows="3">
+         40 
+         87.5 
+         235.0 
+      </yAxis>
+<zValues cols="3" rows="3">
+         2800.0 1300.0 200.0 
+         2800.0 1300.0 200.0 
+         2800.0 1300.0 200.0 
+      </zValues>
+</table>
+</tableData>

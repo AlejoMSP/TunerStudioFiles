@@ -1,0 +1,3 @@
+"PWM Out 3" = "Fan"
+"PWM Out 2" = "VVT1"
+"High Current Out 1" = "EBC1"
