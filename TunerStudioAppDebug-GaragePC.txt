@@ -1,0 +1,2233 @@
+Starting on DESKTOP-1B7VEFE
+TunerStudio 3.1.08 started on Tue Jan 02 16:34:57 EST 2024
+JRE 1.8.0_66, Windows 10 10.0, x86
+java.library.path=./lib
+TunerStudioMS.jar
+Look:Metal, ClassName:'javax.swing.plaf.metal.MetalLookAndFeel'
+Look:Nimbus, ClassName:'javax.swing.plaf.nimbus.NimbusLookAndFeel'
+Look:CDE/Motif, ClassName:'com.sun.java.swing.plaf.motif.MotifLookAndFeel'
+Look:Windows, ClassName:'com.sun.java.swing.plaf.windows.WindowsLookAndFeel'
+Look:Windows Classic, ClassName:'com.sun.java.swing.plaf.windows.WindowsClassicLookAndFeel'
+Look:Night Shade, ClassName:'de.muntjak.tinylookandfeel.TinyLookAndFeel'
+Setting Look & Feel to:javax.swing.plaf.metal.MetalLookAndFeel
+ScrollBar.width
+1/2/24 4:34:57 PM :Debug: no update:defaultFont
+1/2/24 4:34:57 PM :Info: Initializing File Dialogs.
+1/2/24 4:34:57 PM :Debug: hid: 665.7522
+1/2/24 4:34:58 PM :Info: Updating ai & t
+1/2/24 4:34:58 PM :Info: Loading Language Content.
+1/2/24 4:35:00 PM :Debug: Command Non-VolatileBytes for F resolved to: x46                                                                   F
+1/2/24 4:35:00 PM :Debug: Command Non-VolatileBytes for I resolved to: x49                                                                   I
+1/2/24 4:35:00 PM :Debug: Command Non-VolatileBytes for f resolved to: x66                                                                   f
+1/2/24 4:35:00 PM :Info: Initializing Plugin Services.
+1/2/24 4:35:00 PM :Info: Loading Plugins.
+1/2/24 4:35:00 PM :Info: Initializing Help.
+1/2/24 4:35:00 PM :Info: Initializing Edition Features.
+1/2/24 4:35:00 PM :Info: Initializing App Events.
+1/2/24 4:35:00 PM :Debug: App Name:TunerStudio, appEdition:MS Ultra
+1/2/24 4:35:00 PM :Info: Initializing Log Viewer Components.
+1/2/24 4:35:00 PM :Info: Initializing User Interface
+1/2/24 4:35:00 PM :Warning: Unable to set Main cluster for title:
+1/2/24 4:35:02 PM :Info: Loading Font list.
+1/2/24 4:35:02 PM :Debug: Time to retreive font name list: 80 ms.
+1/2/24 4:35:02 PM :Info: 
+1/2/24 4:35:02 PM :Info: Initializing UI Components.
+1/2/24 4:35:02 PM :Debug: EventTrigger cltTempWarning Reset. expression: coolant < 200
+1/2/24 4:35:02 PM :Debug: EventTrigger playRacecarWOT Reset. expression: tps < 5
+1/2/24 4:35:02 PM :Debug: EventTrigger syncLossDetect Reset after resetDelay (ms): 1000
+1/2/24 4:35:02 PM :Info: Ready
+1/2/24 4:35:02 PM :Info: Opening Last Project....
+1/2/24 4:35:02 PM :Info: Opening Project ...
+1/2/24 4:35:02 PM :Debug: Opening project: C:\Users\Solidworks\OneDrive\TunerStudioFiles\Miata-99-NA
+1/2/24 4:35:02 PM :Debug: EventTrigger cltTempWarning Reset. expression: coolant < 200
+1/2/24 4:35:02 PM :Debug: EventTrigger playRacecarWOT Reset. expression: tps < 5
+1/2/24 4:35:02 PM :Debug: EventTrigger syncLossDetect Reset after resetDelay (ms): 1000
+1/2/24 4:35:02 PM :Debug: EventTrigger Data log Reset. expression: AppEvent.dataLoggingActive == 0
+1/2/24 4:35:02 PM :Debug: EventTrigger cltTempWarning Reset. expression: coolant < 200
+1/2/24 4:35:02 PM :Debug: EventTrigger playRacecarWOT Reset. expression: tps < 5
+1/2/24 4:35:02 PM :Debug: EventTrigger syncLossDetect Reset after resetDelay (ms): 1000
+1/2/24 4:35:02 PM :Debug: EventTrigger Stop Data log Reset. expression: AppEvent.dataLoggingActive != 0
+1/2/24 4:35:02 PM :Debug: EventTrigger cltTempWarning Reset. expression: coolant < 200
+1/2/24 4:35:02 PM :Debug: EventTrigger playRacecarWOT Reset. expression: tps < 5
+1/2/24 4:35:02 PM :Debug: EventTrigger syncLossDetect Reset after resetDelay (ms): 1000
+1/2/24 4:35:02 PM :Debug: Reading translation file as plain text
+1/2/24 4:35:03 PM :Info: Supported iniSpecVersion=3.71
+1/2/24 4:35:03 PM :Debug: Filtered ConfigurationOptionGroup in 7ms.
+1/2/24 4:35:03 PM :Info: Supported iniSpecVersion=3.71
+1/2/24 4:35:03 PM :Info: Read file canPcVariables.ini: 1.6454ms
+1/2/24 4:35:03 PM :Info: Filtered ini: 0.0503ms
+1/2/24 4:35:03 PM :Info: No iniVersion defined
+1/2/24 4:35:03 PM :Info: Loading Trigger Wheels
+1/2/24 4:35:03 PM :Info: Loaded All known ini sections
+1/2/24 4:35:03 PM :Info: Parsed and validated ini "canPcVariables.ini" in : 10ms.
+1/2/24 4:35:03 PM :Info: Read file mainController.ini: 4.4081ms
+1/2/24 4:35:03 PM :Info: Filtered ini: 4.1812ms
+1/2/24 4:35:03 PM :Info: No iniVersion defined
+1/2/24 4:35:03 PM :Debug: ini signature: speeduino 202310
+1/2/24 4:35:03 PM :Info: Loading Trigger Wheels
+1/2/24 4:35:03 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+1/2/24 4:35:03 PM :Info: Loaded All known ini sections
+1/2/24 4:35:03 PM :Info: Parsed and validated ini "mainController.ini" in : 120ms.
+1/2/24 4:35:03 PM :Info: Supported iniSpecVersion=3.71
+1/2/24 4:35:03 PM :Info: Read file speeduinoSupplement.ecu: 11.9551ms
+1/2/24 4:35:03 PM :Info: Filtered ini: 0.0518ms
+1/2/24 4:35:03 PM :Info: No iniVersion defined
+1/2/24 4:35:03 PM :Info: Loading Trigger Wheels
+1/2/24 4:35:03 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+1/2/24 4:35:03 PM :Info: Validate Expressions disabled.
+1/2/24 4:35:03 PM :Info: Loaded All known ini sections
+1/2/24 4:35:03 PM :Info: Parsed ini "speeduinoSupplement.ecu" in : 10ms.
+1/2/24 4:35:03 PM :Info: Not Loading default Tools because they were already loaded from the project ini(s)
+1/2/24 4:35:03 PM :Info: Time to load primary config: 230.05809ms. used cached config: false
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+1/2/24 4:35:03 PM :Debug: set baud to 115200
+1/2/24 4:35:03 PM :Debug: Adding Configuration: Miata-99-NA
+1/2/24 4:35:03 PM :Debug: controllerOnline = 0.0
+1/2/24 4:35:03 PM :Debug: Activating Event Trigger: TriggeredPage0 Refresh:  vssRefresh > 0 
+1/2/24 4:35:03 PM :Debug: Fill Constants: 0
+1/2/24 4:35:03 PM :Info: Tune opened, 3380 bytes updated. File:C:\Users\Solidworks\OneDrive\TunerStudioFiles\Miata-99-NA\CurrentTune.msq
+1/2/24 4:35:03 PM :Info: Tune opened, 3380 bytes updated. File:C:\Users\Solidworks\OneDrive\TunerStudioFiles\Miata-99-NA\CurrentTune.msq
+1/2/24 4:35:03 PM :Info: dirtyData.size(): 0
+1/2/24 4:35:03 PM :Info: dirtyData.size(): 0
+1/2/24 4:35:03 PM :Debug: Flush lasted: 80ms.
+1/2/24 4:35:03 PM :Info: dirtyData.size(): 0
+1/2/24 4:35:03 PM :Info: dirtyData.size(): 0
+1/2/24 4:35:03 PM :Debug: Flush lasted: 70ms.
+1/2/24 4:35:03 PM :Debug: Skip Burn, last write page: -2
+1/2/24 4:35:03 PM :Info: !!! Loaded config in 530
+1/2/24 4:35:03 PM :Info: !!! Activated Project 690
+1/2/24 4:35:03 PM :Info: Opening Gauge Cluster..
+1/2/24 4:35:03 PM :Info: Time to load uncached dash: 63.503ms, file: dashboard.dash
+1/2/24 4:35:03 PM :Debug: Deactivated fast paint Main Dashboard
+1/2/24 4:35:03 PM :Debug: Font for 'Mark Pro Normal' not found.
+1/2/24 4:35:03 PM :Debug: High Speed Paint: false
+1/2/24 4:35:03 PM :Info: 
+1/2/24 4:35:03 PM :Info: Com Thread created: COMM Thread88296.14374097457
+1/2/24 4:35:03 PM :Info: endModalBlock called, but Root Pane is not a ProgressPane.
+1/2/24 4:35:03 PM :Info: Comm Manager for Miata-99-NA Started, thread ID: COMM Thread88296.14374097457
+1/2/24 4:35:03 PM :Debug: Port not valid: Unable to open port: COM15
+Please check your Communications Settings. 
+1/2/24 4:35:04 PM :Info: Time to load uncached dash: 159.58ms, file: Default.dash
+1/2/24 4:35:04 PM :Debug: High Speed Paint: true
+1/2/24 4:35:04 PM :Debug: !!! Opened Dash 1180
+1/2/24 4:35:04 PM :Info: Miata-99-NA Ready
+1/2/24 4:35:04 PM :Debug: Tuning View Files loaded in 0.2604ms.
+1/2/24 4:35:04 PM :Debug: EventTrigger cltTempWarning Reset. expression: coolant < 200
+1/2/24 4:35:04 PM :Debug: EventTrigger playRacecarWOT Reset. expression: tps < 5
+1/2/24 4:35:04 PM :Debug: EventTrigger syncLossDetect Reset after resetDelay (ms): 1000
+1/2/24 4:35:04 PM :Debug: Activating Event Trigger: cltTempWarning
+1/2/24 4:35:04 PM :Debug: Activating Event Trigger: playRacecarWOT
+1/2/24 4:35:04 PM :Debug: Activating Event Trigger: syncLossDetect
+1/2/24 4:35:04 PM :Debug: Deactivating Event Trigger: syncLossDetect
+1/2/24 4:35:04 PM :Debug: Activating Event Trigger: syncLossDetect
+1/2/24 4:35:04 PM :Info: EventTrigger: Miata-99-NA.syncLossDetect loaded and activated.
+1/2/24 4:35:04 PM :Debug: Activating Event Trigger: Stop Data log
+1/2/24 4:35:04 PM :Info: EventTrigger: Miata-99-NA.Stop Data log loaded and activated.
+1/2/24 4:35:04 PM :Debug: Deactivating Event Trigger: cltTempWarning
+1/2/24 4:35:04 PM :Debug: Activating Event Trigger: cltTempWarning
+1/2/24 4:35:04 PM :Info: EventTrigger: Miata-99-NA.cltTempWarning loaded and activated.
+1/2/24 4:35:04 PM :Debug: Activating Event Trigger: Data log
+1/2/24 4:35:04 PM :Info: EventTrigger: Miata-99-NA.Data log loaded and activated.
+1/2/24 4:35:04 PM :Debug: Deactivating Event Trigger: playRacecarWOT
+1/2/24 4:35:04 PM :Debug: Activating Event Trigger: playRacecarWOT
+1/2/24 4:35:04 PM :Info: EventTrigger: Miata-99-NA.playRacecarWOT loaded and activated.
+1/2/24 4:35:04 PM :Info: EventTrigger: Miata-99-NA.TriggeredPage0 Refresh:  vssRefresh > 0  not active.
+1/3/24 10:14:11 AM :Info: Comm Read Thread Change! Old Thread:null, new Thread:COMM Thread88296.14374097457
+1/3/24 10:14:11 AM :Info: Local on CAN ID:0, blockingFactor: 121, tableBlockingFactor: 64
+1/3/24 10:14:11 AM :Info: Target device is local, using localBlockingFactors
+1/3/24 10:14:12 AM :Info: Sig Bytes:x73 x70 x65 x65 x64 x75 x69 x6E x6F x20 x32 x30 x32 x33 x31 x30       speeduino.202310
+1/3/24 10:14:13 AM :Info: Communicating with sig:speeduino 202310, Speeduino 2023.10
+1/3/24 10:14:13 AM :Debug: Received Instruction: Read All Tune Data, Page: 0
+1/3/24 10:14:13 AM :Debug: controllerOnline = 1.0
+1/3/24 10:14:13 AM :Warning: Variable 'synccnt' used in expression, but not defined as OutputChannel or Setting Parameter in Miata-99-NA: Bad Trigger Condition: TimedResetSeconds:1
+1/3/24 10:14:13 AM :Debug: Stop Data log: Trigger Expression: rpm > 0 && AppEvent.dataLoggingActive != 0 = 0.0
+1/3/24 10:14:13 AM :Debug: cltTempWarning: Trigger Expression: coolant > 230 = 0.0
+1/3/24 10:14:13 AM :Debug: Data log: Trigger Expression: rpm > 200 && AppEvent.dataLoggingActive == 0 = 0.0
+1/3/24 10:14:13 AM :Debug: playRacecarWOT: Trigger Expression: tps > 92 = 0.0
+1/3/24 10:14:13 AM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+1/3/24 10:14:13 AM :Debug: CRC matches for page 1:x2C x3B x49 x91                                                       ,;I.
+1/3/24 10:14:13 AM :Info: CrC matched skipped controller read on page:1
+1/3/24 10:14:13 AM :Debug: CRC matches for page 2:x15 xA0 x0A x5D                                                       ...]
+1/3/24 10:14:13 AM :Info: CrC matched skipped controller read on page:2
+1/3/24 10:14:13 AM :Debug: CRC matches for page 3:x66 xE7 xB2 x83                                                       f...
+1/3/24 10:14:13 AM :Info: CrC matched skipped controller read on page:3
+1/3/24 10:14:13 AM :Debug: CRC matches for page 4:xCD x08 x57 x81                                                       ..W.
+1/3/24 10:14:13 AM :Info: CrC matched skipped controller read on page:4
+1/3/24 10:14:13 AM :Debug: CRC matches for page 5:x37 xF6 x5E xD4                                                       7.^.
+1/3/24 10:14:13 AM :Info: CrC matched skipped controller read on page:5
+1/3/24 10:14:13 AM :Debug: CRC matches for page 6:x50 x87 x82 x9F                                                       P...
+1/3/24 10:14:13 AM :Info: CrC matched skipped controller read on page:6
+1/3/24 10:14:13 AM :Debug: CRC matches for page 7:x85 xEA xDA x4C                                                       ...L
+1/3/24 10:14:13 AM :Info: CrC matched skipped controller read on page:7
+1/3/24 10:14:13 AM :Debug: CRC matches for page 8:x3C xF7 x48 x2B                                                       <.H+
+1/3/24 10:14:13 AM :Info: CrC matched skipped controller read on page:8
+1/3/24 10:14:13 AM :Info: CRC Mismatch, will need to refresh page from controller 
+1/3/24 10:14:13 AM :Info:    CRC from controller page 9:x58 x01 x87 xAD                                                       X...
+1/3/24 10:14:13 AM :Info:    Local Data CRC for page 9: xE3 xE9 x20 xF2                                                       ....
+1/3/24 10:14:13 AM :Debug: Read page time: 71ms.
+1/3/24 10:14:13 AM :Info: Checksum page 9 data read: x58 x01 x87 xAD                                                       X...
+1/3/24 10:14:13 AM :Debug: CRC matches for page 10:x87 xE7 xE5 x25                                                       ...%
+1/3/24 10:14:13 AM :Info: CrC matched skipped controller read on page:10
+1/3/24 10:14:13 AM :Debug: CRC matches for page 11:x74 x8A xF8 xBC                                                       t...
+1/3/24 10:14:13 AM :Info: CrC matched skipped controller read on page:11
+1/3/24 10:14:13 AM :Debug: CRC matches for page 12:x87 x26 x89 x7A                                                       .&.z
+1/3/24 10:14:13 AM :Info: CrC matched skipped controller read on page:12
+1/3/24 10:14:13 AM :Info: CRC Mismatch, will need to refresh page from controller 
+1/3/24 10:14:13 AM :Info:    CRC from controller page 13:xC4 xA0 x20 x5E                                                       ...^
+1/3/24 10:14:13 AM :Info:    Local Data CRC for page 13: xCC x54 x2F x04                                                       .T/.
+1/3/24 10:14:13 AM :Debug: Read page time: 71ms.
+1/3/24 10:14:13 AM :Info: Checksum page 13 data read: xC4 xA0 x20 x5E                                                       ...^
+1/3/24 10:14:14 AM :Debug: CRC matches for page 14:xFF xD6 xB2 xE4                                                       ....
+1/3/24 10:14:14 AM :Info: CrC matched skipped controller read on page:14
+1/3/24 10:14:14 AM :Debug: CRC matches for page 15:x50 xD6 x29 xF1                                                       P.).
+1/3/24 10:14:14 AM :Info: CrC matched skipped controller read on page:15
+1/3/24 10:14:14 AM :Debug: Read All Data
+1/3/24 10:14:14 AM :Debug: isBlank Time: 0 ms.
+1/3/24 10:14:14 AM :Debug: DiffTime: 18 ms.
+1/3/24 10:14:37 AM :Info: Auto Logging: Stopped Logging
+1/3/24 10:14:37 AM :Debug: EventTrigger Stop Data log Triggered. expression: rpm > 0 && AppEvent.dataLoggingActive != 0
+1/3/24 10:14:37 AM :Debug: Starting Log for 1 Configs.
+1/3/24 10:14:37 AM :Debug: Time to subscribe all data log channels: 3.3504
+1/3/24 10:14:37 AM :Debug: MLG header created
+1/3/24 10:14:37 AM :Info: Started Data Log to file: C:\Users\Solidworks\OneDrive\TunerStudioFiles\Miata-99-NA\DataLogs\2024-01-03_10.14.34.mlg
+1/3/24 10:14:37 AM :Info: Channels active on main config Miata-99-NA: 129
+1/3/24 10:14:37 AM :Info: Capturing DataLog
+1/3/24 10:14:37 AM :Debug: Reset Ex: AppEvent.dataLoggingActive != 0 = true
+1/3/24 10:14:37 AM :Debug: EventTrigger Stop Data log Reset. expression: AppEvent.dataLoggingActive != 0
+1/3/24 10:14:37 AM :Debug: Skipping Record: nanCount=76
+1/3/24 10:14:37 AM :Debug: Skipping Record: nanCount=76
+1/3/24 10:14:37 AM :Debug: Skipping Record: nanCount=76
+1/3/24 10:14:39 AM :Debug: EventTrigger Stop Data log Triggered. expression: rpm > 0 && AppEvent.dataLoggingActive != 0
+1/3/24 10:14:39 AM :Info: Data log stopped
+1/3/24 10:14:39 AM :Info: Auto Logging: Stopped Logging
+1/3/24 10:14:39 AM :Info: FileOutputStream Closed.
+1/3/24 10:14:39 AM :Debug: EventTrigger Stop Data log Triggered. expression: rpm > 0 && AppEvent.dataLoggingActive != 0
+1/3/24 10:14:39 AM :Debug: Starting Log for 1 Configs.
+1/3/24 10:14:39 AM :Debug: Time to subscribe all data log channels: 0.5152
+1/3/24 10:14:39 AM :Debug: MLG header created
+1/3/24 10:14:39 AM :Info: Started Data Log to file: C:\Users\Solidworks\OneDrive\TunerStudioFiles\Miata-99-NA\DataLogs\2024-01-03_10.14.39.mlg
+1/3/24 10:14:39 AM :Info: Channels active on main config Miata-99-NA: 127
+1/3/24 10:14:39 AM :Info: Capturing DataLog
+1/3/24 10:14:39 AM :Info: Auto Logging: Started Logging
+1/3/24 10:14:39 AM :Debug: EventTrigger Data log Triggered. expression: rpm > 200 && AppEvent.dataLoggingActive == 0
+1/3/24 10:14:39 AM :Info: Data log stopped
+1/3/24 10:14:39 AM :Info: Auto Logging: Stopped Logging
+1/3/24 10:14:39 AM :Debug: Skipping Record: nanCount=74
+1/3/24 10:14:39 AM :Debug: Skipping Record: nanCount=74
+1/3/24 10:14:40 AM :Debug: Skipping Record: nanCount=74
+1/3/24 10:14:40 AM :Info: FileOutputStream Closed.
+1/3/24 10:14:40 AM :Debug: Reset Ex: AppEvent.dataLoggingActive == 0 = true
+1/3/24 10:14:40 AM :Debug: EventTrigger Data log Reset. expression: AppEvent.dataLoggingActive == 0
+1/3/24 10:14:40 AM :Debug: EventTrigger Stop Data log Triggered. expression: rpm > 0 && AppEvent.dataLoggingActive != 0
+1/3/24 10:14:40 AM :Debug: Starting Log for 1 Configs.
+1/3/24 10:14:40 AM :Info: Auto Logging: Stopped Logging
+1/3/24 10:14:40 AM :Debug: Time to subscribe all data log channels: 0.248
+1/3/24 10:14:40 AM :Debug: MLG header created
+1/3/24 10:14:40 AM :Info: Started Data Log to file: C:\Users\Solidworks\OneDrive\TunerStudioFiles\Miata-99-NA\DataLogs\2024-01-03_10.14.40.mlg
+1/3/24 10:14:40 AM :Info: Channels active on main config Miata-99-NA: 127
+1/3/24 10:14:40 AM :Info: Capturing DataLog
+1/3/24 10:14:40 AM :Info: Auto Logging: Started Logging
+1/3/24 10:14:40 AM :Debug: EventTrigger Data log Triggered. expression: rpm > 200 && AppEvent.dataLoggingActive == 0
+1/3/24 10:14:40 AM :Debug: Skipping Record: nanCount=74
+1/3/24 10:14:40 AM :Debug: Skipping Record: nanCount=74
+1/3/24 10:14:40 AM :Debug: Skipping Record: nanCount=74
+1/3/24 10:14:42 AM :Debug: Reset Ex: AppEvent.dataLoggingActive != 0 = true
+1/3/24 10:14:42 AM :Debug: EventTrigger Stop Data log Reset. expression: AppEvent.dataLoggingActive != 0
+1/3/24 10:14:43 AM :Debug: EventTrigger Stop Data log Triggered. expression: rpm > 0 && AppEvent.dataLoggingActive != 0
+1/3/24 10:14:43 AM :Info: Data log stopped
+1/3/24 10:14:43 AM :Info: Auto Logging: Stopped Logging
+1/3/24 10:14:43 AM :Info: FileOutputStream Closed.
+1/3/24 10:14:43 AM :Debug: Reset Ex: AppEvent.dataLoggingActive == 0 = true
+1/3/24 10:14:43 AM :Debug: EventTrigger Data log Reset. expression: AppEvent.dataLoggingActive == 0
+1/3/24 10:14:43 AM :Debug: EventTrigger Stop Data log Triggered. expression: rpm > 0 && AppEvent.dataLoggingActive != 0
+1/3/24 10:14:43 AM :Debug: Starting Log for 1 Configs.
+1/3/24 10:14:43 AM :Info: Auto Logging: Stopped Logging
+1/3/24 10:14:43 AM :Debug: Time to subscribe all data log channels: 0.1449
+1/3/24 10:14:43 AM :Debug: MLG header created
+1/3/24 10:14:43 AM :Info: Started Data Log to file: C:\Users\Solidworks\OneDrive\TunerStudioFiles\Miata-99-NA\DataLogs\2024-01-03_10.14.43.mlg
+1/3/24 10:14:43 AM :Info: Channels active on main config Miata-99-NA: 127
+1/3/24 10:14:43 AM :Info: Capturing DataLog
+1/3/24 10:14:43 AM :Info: Auto Logging: Started Logging
+1/3/24 10:14:43 AM :Debug: EventTrigger Data log Triggered. expression: rpm > 200 && AppEvent.dataLoggingActive == 0
+1/3/24 10:14:43 AM :Debug: Skipping Record: nanCount=74
+1/3/24 10:14:43 AM :Debug: Skipping Record: nanCount=74
+1/3/24 10:14:43 AM :Debug: Skipping Record: nanCount=74
+1/3/24 10:21:40 AM :Info: Data log stopped
+1/3/24 10:21:40 AM :Info: FileOutputStream Closed.
+1/3/24 10:21:42 AM :Debug: Reset Ex: AppEvent.dataLoggingActive == 0 = true
+1/3/24 10:21:42 AM :Debug: EventTrigger Data log Reset. expression: AppEvent.dataLoggingActive == 0
+1/3/24 10:21:45 AM :Info: Re-establishing connection to: RS232: Port:COM15, Baud:115200
+1/3/24 10:21:45 AM :Debug: can not close Port: jssc.SerialPort@1af4ce2, message: Port name - COM15; Method name - setEventsMask(); Exception type - Can't set mask.
+1/3/24 10:21:45 AM :Warning: Failed to re-establish connection to: RS232: Port:COM15, Baud:115200
+1/3/24 10:21:45 AM :Info: Connection Check failed, forcing offline.
+1/3/24 10:21:46 AM :Debug: controllerOnline = 0.0
+1/3/24 10:21:46 AM :Debug: cltTempWarning: Trigger Expression: coolant > 230 = 0.0
+1/3/24 10:21:46 AM :Debug: Data log: Trigger Expression: rpm > 200 && AppEvent.dataLoggingActive == 0 = 0.0
+1/3/24 10:21:46 AM :Debug: playRacecarWOT: Trigger Expression: tps > 92 = 0.0
+1/3/24 10:21:46 AM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+1/3/24 10:21:46 AM :Debug: No Remaining Queue Write instructions
+1/3/24 10:21:46 AM :Debug: Went offline
+1/3/24 10:21:46 AM :Debug: controllerOnline = 0.0
+1/3/24 10:21:46 AM :Debug: cltTempWarning: Trigger Expression: coolant > 230 = 0.0
+1/3/24 10:21:46 AM :Debug: Data log: Trigger Expression: rpm > 200 && AppEvent.dataLoggingActive == 0 = 0.0
+1/3/24 10:21:46 AM :Debug: playRacecarWOT: Trigger Expression: tps > 92 = 0.0
+1/3/24 10:21:46 AM :Debug: TriggeredPage0 Refresh:  vssRefresh > 0 : Trigger Expression:  vssRefresh > 0  = 0.0
+1/3/24 10:21:46 AM :Debug: No Remaining Queue Write instructions
+1/3/24 10:21:46 AM :Info: Went offline 2
+1/3/24 10:21:47 AM :Debug: Port not valid: Unable to open port: COM15
+Please check your Communications Settings. 
+1/3/24 10:24:02 AM :Info: Time to save msq: 94.4216
+1/3/24 10:24:02 AM :Info: closeApp Called
+1/3/24 10:24:02 AM :Debug: TuneLog Editor set text
+1/3/24 10:24:02 AM :Debug: Fill Constants: 7
+1/3/24 10:24:02 AM :Info: Skip Restore Point for 'Miata-99-NA' because nothing changed since: Miata-99-NA_2024-01-02_16.21.34.msq
+1/3/24 10:24:02 AM :Info: Time to save msq: 9.3144
+1/3/24 10:24:02 AM :Debug: goOffline Starting, Time:0
+1/3/24 10:24:02 AM :Info: Deactivated Turbo Baud, goOffline
+1/3/24 10:24:02 AM :Debug: goOffline about to stopProcessing, Time:1
+1/3/24 10:24:02 AM :Debug: goOffline closed port, Time:1
+1/3/24 10:24:02 AM :Info: Miata-99-NA ComThread stopped COMM Thread88296.14374097457
+1/3/24 10:24:02 AM :Debug: goOffline comm thread stopped, Time:401
+1/3/24 10:24:02 AM :Debug: No Remaining Queue Write instructions
+1/3/24 10:24:02 AM :Debug: removing Configuration: Miata-99-NA
+1/3/24 10:24:02 AM :Debug: ############################################# Save Project Backup ##########################################
+1/3/24 10:24:02 AM :Info: Finalizing Sensors
+Saved user properties successfully
+Starting on GARAGEPC
+TunerStudio 3.1.08 started on Wed Jan 03 11:06:06 EST 2024
+JRE 1.8.0_66, Windows 10 10.0, x86
+java.library.path=./lib
+TunerStudioMS.jar
+Look:Metal, ClassName:'javax.swing.plaf.metal.MetalLookAndFeel'
+Look:Nimbus, ClassName:'javax.swing.plaf.nimbus.NimbusLookAndFeel'
+Look:CDE/Motif, ClassName:'com.sun.java.swing.plaf.motif.MotifLookAndFeel'
+Look:Windows, ClassName:'com.sun.java.swing.plaf.windows.WindowsLookAndFeel'
+Look:Windows Classic, ClassName:'com.sun.java.swing.plaf.windows.WindowsClassicLookAndFeel'
+Look:Night Shade, ClassName:'de.muntjak.tinylookandfeel.TinyLookAndFeel'
+Setting Look & Feel to:javax.swing.plaf.metal.MetalLookAndFeel
+ScrollBar.width
+1/3/24 11:06:07 AM :Debug: no update:defaultFont
+1/3/24 11:06:07 AM :Info: Initializing File Dialogs.
+1/3/24 11:06:07 AM :Debug: hid: 830.30023
+1/3/24 11:06:07 AM :Info: Updating ai & t
+1/3/24 11:06:08 AM :Info: Loading Language Content.
+1/3/24 11:06:10 AM :Debug: Command Non-VolatileBytes for F resolved to: x46                                                                   F
+1/3/24 11:06:10 AM :Debug: Command Non-VolatileBytes for I resolved to: x49                                                                   I
+1/3/24 11:06:10 AM :Debug: Command Non-VolatileBytes for f resolved to: x66                                                                   f
+1/3/24 11:06:10 AM :Info: Initializing Plugin Services.
+1/3/24 11:06:10 AM :Info: Loading Plugins.
+1/3/24 11:06:10 AM :Info: Initializing Help.
+1/3/24 11:06:10 AM :Info: Initializing Edition Features.
+1/3/24 11:06:10 AM :Info: Initializing App Events.
+1/3/24 11:06:10 AM :Debug: App Name:TunerStudio, appEdition:MS Ultra
+1/3/24 11:06:10 AM :Info: Initializing Log Viewer Components.
+1/3/24 11:06:10 AM :Info: Initializing User Interface
+1/3/24 11:06:10 AM :Warning: Unable to set Main cluster for title:
+1/3/24 11:06:12 AM :Info: Loading Font list.
+1/3/24 11:06:12 AM :Debug: Time to retreive font name list: 17 ms.
+1/3/24 11:06:12 AM :Info: 
+1/3/24 11:06:12 AM :Info: Initializing UI Components.
+1/3/24 11:06:12 AM :Info: Checking for updates
+1/3/24 11:06:12 AM :Info: Opening Last Project....
+1/3/24 11:06:12 AM :Debug: EventTrigger cltTempWarning Reset. expression: coolant < 200
+1/3/24 11:06:12 AM :Debug: EventTrigger syncLossDetect Reset after resetDelay (ms): 1000
+1/3/24 11:06:12 AM :Info: Ready
+1/3/24 11:06:12 AM :Info: Opening Project ...
+1/3/24 11:06:12 AM :Debug: Opening project: C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA
+1/3/24 11:06:12 AM :Debug: EventTrigger cltTempWarning Reset. expression: coolant < 200
+1/3/24 11:06:12 AM :Debug: EventTrigger syncLossDetect Reset after resetDelay (ms): 1000
+1/3/24 11:06:12 AM :Debug: EventTrigger Data log Reset. expression: AppEvent.dataLoggingActive == 0
+1/3/24 11:06:12 AM :Debug: EventTrigger cltTempWarning Reset. expression: coolant < 200
+1/3/24 11:06:12 AM :Debug: EventTrigger syncLossDetect Reset after resetDelay (ms): 1000
+1/3/24 11:06:12 AM :Debug: EventTrigger Stop Data log Reset. expression: AppEvent.dataLoggingActive != 0
+1/3/24 11:06:12 AM :Debug: EventTrigger cltTempWarning Reset. expression: coolant < 200
+1/3/24 11:06:12 AM :Debug: EventTrigger syncLossDetect Reset after resetDelay (ms): 1000
+1/3/24 11:06:12 AM :Debug: Reading translation file as plain text
+1/3/24 11:06:12 AM :Info: Supported iniSpecVersion=3.71
+1/3/24 11:06:12 AM :Debug: Filtered ConfigurationOptionGroup in 9ms.
+1/3/24 11:06:12 AM :Info: Supported iniSpecVersion=3.71
+1/3/24 11:06:12 AM :Info: Read file canPcVariables.ini: 2.75ms
+1/3/24 11:06:12 AM :Info: Filtered ini: 0.0379ms
+1/3/24 11:06:12 AM :Info: No iniVersion defined
+1/3/24 11:06:12 AM :Info: Loading Trigger Wheels
+1/3/24 11:06:12 AM :Info: Loaded All known ini sections
+1/3/24 11:06:12 AM :Info: Parsed and validated ini "canPcVariables.ini" in : 11ms.
+1/3/24 11:06:12 AM :Info: Read file mainController.ini: 4.7256ms
+1/3/24 11:06:12 AM :Info: Filtered ini: 4.3813ms
+1/3/24 11:06:12 AM :Info: No iniVersion defined
+1/3/24 11:06:12 AM :Debug: ini signature: speeduino 202310
+1/3/24 11:06:12 AM :Info: Loading Trigger Wheels
+1/3/24 11:06:12 AM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+1/3/24 11:06:12 AM :Info: Loaded All known ini sections
+1/3/24 11:06:12 AM :Info: Parsed and validated ini "mainController.ini" in : 109ms.
+1/3/24 11:06:12 AM :Info: Supported iniSpecVersion=3.71
+1/3/24 11:06:12 AM :Info: Read file speeduinoSupplement.ecu: 12.2836ms
+1/3/24 11:06:12 AM :Info: Filtered ini: 0.0469ms
+1/3/24 11:06:12 AM :Info: No iniVersion defined
+1/3/24 11:06:12 AM :Info: Loading Trigger Wheels
+1/3/24 11:06:12 AM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+1/3/24 11:06:12 AM :Info: Validate Expressions disabled.
+1/3/24 11:06:12 AM :Info: Loaded All known ini sections
+1/3/24 11:06:12 AM :Info: Parsed ini "speeduinoSupplement.ecu" in : 19ms.
+1/3/24 11:06:12 AM :Info: Not Loading default Tools because they were already loaded from the project ini(s)
+1/3/24 11:06:12 AM :Info: Time to load primary config: 226.6295ms. used cached config: false
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+1/3/24 11:06:12 AM :Debug: set baud to 115200
+1/3/24 11:06:12 AM :Debug: Adding Configuration: Miata-99-NA
+1/3/24 11:06:12 AM :Debug: controllerOnline = 0.0
+1/3/24 11:06:12 AM :Debug: Activating Event Trigger: TriggeredPage0 Refresh:  vssRefresh > 0 
+1/3/24 11:06:12 AM :Debug: Fill Constants: 0
+1/3/24 11:06:12 AM :Info: Tune opened, 3380 bytes updated. File:C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA\CurrentTune.msq
+1/3/24 11:06:12 AM :Info: Tune opened, 3380 bytes updated. File:C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA\CurrentTune.msq
+1/3/24 11:06:12 AM :Info: dirtyData.size(): 0
+1/3/24 11:06:13 AM :Info: dirtyData.size(): 0
+1/3/24 11:06:13 AM :Debug: Flush lasted: 78ms.
+1/3/24 11:06:13 AM :Info: dirtyData.size(): 0
+1/3/24 11:06:13 AM :Info: dirtyData.size(): 0
+1/3/24 11:06:13 AM :Debug: Flush lasted: 79ms.
+1/3/24 11:06:13 AM :Debug: Skip Burn, last write page: -2
+1/3/24 11:06:13 AM :Info: !!! Loaded config in 534
+1/3/24 11:06:13 AM :Info: !!! Activated Project 628
+1/3/24 11:06:13 AM :Info: Opening Gauge Cluster..
+1/3/24 11:06:13 AM :Info: Time to load uncached dash: 59.7064ms, file: dashboard.dash
+1/3/24 11:06:13 AM :Debug: Deactivated fast paint Main Dashboard
+1/3/24 11:06:13 AM :Debug: Font for 'Mark Pro Normal' not found.
+1/3/24 11:06:13 AM :Debug: High Speed Paint: false
+1/3/24 11:06:13 AM :Info: 
+1/3/24 11:06:13 AM :Info: Com Thread created: COMM Thread51120.52807220012
+1/3/24 11:06:13 AM :Info: endModalBlock called, but Root Pane is not a ProgressPane.
+1/3/24 11:06:13 AM :Info: Comm Manager for Miata-99-NA Started, thread ID: COMM Thread51120.52807220012
+1/3/24 11:06:13 AM :Debug: Port not valid: Unable to open port: COM15
+Please check your Communications Settings. 
+1/3/24 11:06:13 AM :Info: Time to load uncached dash: 80.1778ms, file: Default.dash
+1/3/24 11:06:13 AM :Debug: High Speed Paint: true
+1/3/24 11:06:13 AM :Debug: !!! Opened Dash 1051
+1/3/24 11:06:13 AM :Info: Miata-99-NA Ready
+1/3/24 11:06:13 AM :Debug: Tuning View Files loaded in 0.2892ms.
+1/3/24 11:06:14 AM :Debug: EventTrigger cltTempWarning Reset. expression: coolant < 200
+1/3/24 11:06:14 AM :Debug: EventTrigger syncLossDetect Reset after resetDelay (ms): 1000
+1/3/24 11:06:14 AM :Debug: Activating Event Trigger: cltTempWarning
+1/3/24 11:06:14 AM :Debug: Activating Event Trigger: syncLossDetect
+1/3/24 11:06:14 AM :Debug: Deactivating Event Trigger: syncLossDetect
+1/3/24 11:06:14 AM :Debug: Activating Event Trigger: syncLossDetect
+1/3/24 11:06:14 AM :Info: EventTrigger: Miata-99-NA.syncLossDetect loaded and activated.
+1/3/24 11:06:14 AM :Debug: Activating Event Trigger: Stop Data log
+1/3/24 11:06:14 AM :Info: EventTrigger: Miata-99-NA.Stop Data log loaded and activated.
+1/3/24 11:06:14 AM :Debug: Deactivating Event Trigger: cltTempWarning
+1/3/24 11:06:14 AM :Debug: Activating Event Trigger: cltTempWarning
+1/3/24 11:06:14 AM :Info: EventTrigger: Miata-99-NA.cltTempWarning loaded and activated.
+1/3/24 11:06:14 AM :Debug: Activating Event Trigger: Data log
+1/3/24 11:06:14 AM :Info: EventTrigger: Miata-99-NA.Data log loaded and activated.
+1/3/24 11:06:14 AM :Info: EventTrigger: Miata-99-NA.playRacecarWOT not active.
+1/3/24 11:06:14 AM :Info: EventTrigger: Miata-99-NA.TriggeredPage0 Refresh:  vssRefresh > 0  not active.
+1/3/24 11:06:14 AM :Debug: Running speed test
+1/3/24 11:06:15 AM :Debug: Processor Score:581962
+Saved user properties successfully
+1/3/24 11:06:16 AM :Info: Update Check Completed
+Saved user properties successfully
+1/3/24 11:07:29 AM :Debug: Received Instruction: Read Chunk 1, Page: 1
+1/3/24 11:07:29 AM :Info: Initiating read page 1 : 3:68
+1/3/24 11:07:29 AM :Debug: Received Instruction: Read Chunk 2, Page: 2
+1/3/24 11:07:29 AM :Info: Initiating read page 2 : 0:288
+1/3/24 11:07:32 AM :Debug: Received Instruction: Read Chunk 3, Page: 3
+1/3/24 11:07:32 AM :Info: Initiating read page 3 : 0:288
+1/3/24 11:09:39 AM :Info: dirtyData.size(): 0
+1/3/24 11:09:40 AM :Info: dirtyData.size(): 0
+1/3/24 11:09:40 AM :Debug: Flush lasted: 79ms.
+1/3/24 11:09:40 AM :Debug: Skip Burn, last write page: -2
+1/3/24 11:09:42 AM :Debug: Received Instruction: Read Chunk 5, Page: 5
+1/3/24 11:09:42 AM :Info: Initiating read page 5 : 0:288
+1/3/24 11:22:01 AM :Info: dirtyData.size(): 0
+1/3/24 11:22:01 AM :Info: dirtyData.size(): 0
+1/3/24 11:22:01 AM :Debug: Flush lasted: 75ms.
+1/3/24 11:22:01 AM :Debug: Skip Burn, last write page: -2
+1/3/24 11:22:02 AM :Info: dirtyData.size(): 0
+1/3/24 11:22:02 AM :Info: dirtyData.size(): 0
+1/3/24 11:22:02 AM :Debug: Flush lasted: 78ms.
+1/3/24 11:22:02 AM :Debug: Skip Burn, last write page: -2
+1/3/24 11:22:06 AM :Debug: Received Instruction: Read Chunk 1, Page: 1
+1/3/24 11:22:06 AM :Info: Initiating read page 1 : 26:95
+1/3/24 11:22:06 AM :Debug: Received Instruction: Read Chunk 4, Page: 4
+1/3/24 11:22:06 AM :Info: Initiating read page 4 : 3:61
+1/3/24 11:22:06 AM :Debug: Received Instruction: Read Chunk 10, Page: 10
+1/3/24 11:22:06 AM :Info: Initiating read page 10 : 0:135
+1/3/24 11:22:12 AM :Debug: Received Instruction: Read Chunk 1, Page: 1
+1/3/24 11:22:12 AM :Info: Initiating read page 1 : 0:83
+1/3/24 11:27:17 AM :Info: dirtyData.size(): 0
+1/3/24 11:27:17 AM :Info: dirtyData.size(): 0
+1/3/24 11:27:17 AM :Debug: Flush lasted: 71ms.
+1/3/24 11:27:17 AM :Debug: Skip Burn, last write page: -2
+1/3/24 11:27:22 AM :Info: dirtyData.size(): 0
+1/3/24 11:27:22 AM :Info: dirtyData.size(): 0
+1/3/24 11:27:22 AM :Debug: Flush lasted: 78ms.
+1/3/24 11:27:22 AM :Debug: Skip Burn, last write page: -2
+1/3/24 11:27:53 AM :Debug: Received Instruction: Read Chunk 1, Page: 1
+1/3/24 11:27:53 AM :Info: Initiating read page 1 : 15:111
+1/3/24 11:27:53 AM :Debug: Received Instruction: Read Chunk 4, Page: 4
+1/3/24 11:27:53 AM :Info: Initiating read page 4 : 123:1
+1/3/24 11:28:01 AM :Debug: Received Instruction: Read Chunk 4, Page: 4
+1/3/24 11:28:01 AM :Info: Initiating read page 4 : 0:17
+1/3/24 11:28:05 AM :Debug: Received Instruction: Read Chunk 4, Page: 4
+1/3/24 11:28:05 AM :Info: Initiating read page 4 : 10:1
+1/3/24 11:28:36 AM :Info: dirtyData.size(): 0
+1/3/24 11:28:36 AM :Info: dirtyData.size(): 0
+1/3/24 11:28:36 AM :Debug: Flush lasted: 79ms.
+1/3/24 11:28:36 AM :Debug: Skip Burn, last write page: -2
+1/3/24 11:28:38 AM :Info: dirtyData.size(): 0
+1/3/24 11:28:38 AM :Info: dirtyData.size(): 0
+1/3/24 11:28:38 AM :Debug: Flush lasted: 78ms.
+1/3/24 11:28:38 AM :Debug: Skip Burn, last write page: -2
+1/3/24 11:28:39 AM :Info: dirtyData.size(): 0
+1/3/24 11:28:39 AM :Info: dirtyData.size(): 0
+1/3/24 11:28:39 AM :Debug: Flush lasted: 79ms.
+1/3/24 11:28:39 AM :Debug: Skip Burn, last write page: -2
+1/3/24 11:30:31 AM :Debug: Received Instruction: Read Chunk 13, Page: 13
+1/3/24 11:30:31 AM :Info: Initiating read page 13 : 0:90
+1/3/24 11:30:33 AM :Info: dirtyData.size(): 0
+1/3/24 11:30:33 AM :Info: dirtyData.size(): 0
+1/3/24 11:30:33 AM :Debug: Flush lasted: 79ms.
+1/3/24 11:30:33 AM :Debug: Skip Burn, last write page: -2
+1/3/24 11:30:36 AM :Debug: Received Instruction: Read Chunk 6, Page: 6
+1/3/24 11:30:36 AM :Info: Initiating read page 6 : 0:13
+1/3/24 11:38:49 AM :Debug: Received Instruction: Read Chunk 5, Page: 5
+1/3/24 11:38:49 AM :Info: Initiating read page 5 : 0:288
+1/3/24 11:55:20 AM :Debug: Received Instruction: Read Chunk 3, Page: 3
+1/3/24 11:55:20 AM :Info: Initiating read page 3 : 0:288
+1/3/24 11:55:41 AM :Info: dirtyData.size(): 0
+1/3/24 11:55:41 AM :Info: dirtyData.size(): 0
+1/3/24 11:55:41 AM :Debug: Flush lasted: 79ms.
+1/3/24 11:55:41 AM :Debug: Skip Burn, last write page: -2
+1/3/24 11:55:46 AM :Info: dirtyData.size(): 0
+1/3/24 11:55:46 AM :Info: dirtyData.size(): 0
+1/3/24 11:55:46 AM :Debug: Flush lasted: 78ms.
+1/3/24 11:55:46 AM :Debug: Skip Burn, last write page: -2
+1/3/24 11:55:47 AM :Info: dirtyData.size(): 0
+1/3/24 11:55:47 AM :Info: dirtyData.size(): 0
+1/3/24 11:55:47 AM :Debug: Flush lasted: 79ms.
+1/3/24 11:55:47 AM :Debug: Skip Burn, last write page: -2
+1/3/24 11:55:51 AM :Info: dirtyData.size(): 0
+1/3/24 11:55:51 AM :Info: dirtyData.size(): 0
+1/3/24 11:55:51 AM :Debug: Flush lasted: 77ms.
+1/3/24 11:55:51 AM :Debug: Skip Burn, last write page: -2
+1/3/24 11:55:52 AM :Info: dirtyData.size(): 0
+1/3/24 11:55:52 AM :Info: dirtyData.size(): 0
+1/3/24 11:55:52 AM :Debug: Flush lasted: 78ms.
+1/3/24 11:55:52 AM :Debug: Skip Burn, last write page: -2
+1/3/24 11:57:10 AM :Info: Time to save msq: 94.2415
+1/3/24 11:57:10 AM :Info: closeApp Called
+1/3/24 11:57:10 AM :Debug: TuneLog Editor set text
+1/3/24 11:57:10 AM :Debug: Fill Constants: 7
+1/3/24 11:57:10 AM :Debug: File does not exist, creating new:
+C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA\restorePoints\Miata-99-NA_2024-01-03_11.57.10.msq
+1/3/24 11:57:10 AM :Info: Time to save msq: 10.8276
+1/3/24 11:57:10 AM :Info: Miata-99-NA Restore point saved
+1/3/24 11:57:10 AM :Info: Miata-99-NA Restore point saved to: Miata-99-NA_2024-01-03_11.57.10.msq
+1/3/24 11:57:10 AM :Info: Time to save msq: 6.2823
+1/3/24 11:57:10 AM :Debug: goOffline Starting, Time:0
+1/3/24 11:57:10 AM :Info: Deactivated Turbo Baud, goOffline
+1/3/24 11:57:10 AM :Debug: goOffline about to stopProcessing, Time:1
+1/3/24 11:57:10 AM :Debug: goOffline closed port, Time:1
+1/3/24 11:57:10 AM :Info: Miata-99-NA ComThread stopped COMM Thread51120.52807220012
+1/3/24 11:57:10 AM :Debug: goOffline comm thread stopped, Time:173
+1/3/24 11:57:10 AM :Debug: No Remaining Queue Write instructions
+1/3/24 11:57:10 AM :Debug: removing Configuration: Miata-99-NA
+1/3/24 11:57:10 AM :Debug: ############################################# Save Project Backup ##########################################
+1/3/24 11:57:10 AM :Info: Finalizing Sensors
+Saved user properties successfully
+Starting on GARAGEPC
+TunerStudio 3.1.08 started on Wed Jan 03 15:04:45 EST 2024
+JRE 1.8.0_66, Windows 10 10.0, x86
+java.library.path=./lib
+TunerStudioMS.jar
+Look:Metal, ClassName:'javax.swing.plaf.metal.MetalLookAndFeel'
+Look:Nimbus, ClassName:'javax.swing.plaf.nimbus.NimbusLookAndFeel'
+Look:CDE/Motif, ClassName:'com.sun.java.swing.plaf.motif.MotifLookAndFeel'
+Look:Windows, ClassName:'com.sun.java.swing.plaf.windows.WindowsLookAndFeel'
+Look:Windows Classic, ClassName:'com.sun.java.swing.plaf.windows.WindowsClassicLookAndFeel'
+Look:Night Shade, ClassName:'de.muntjak.tinylookandfeel.TinyLookAndFeel'
+Setting Look & Feel to:javax.swing.plaf.metal.MetalLookAndFeel
+ScrollBar.width
+1/3/24 3:04:45 PM :Debug: no update:defaultFont
+1/3/24 3:04:45 PM :Info: Initializing File Dialogs.
+1/3/24 3:04:46 PM :Debug: hid: 884.863
+1/3/24 3:04:46 PM :Info: Updating ai & t
+1/3/24 3:04:47 PM :Info: Loading Language Content.
+1/3/24 3:04:49 PM :Debug: Command Non-VolatileBytes for F resolved to: x46                                                                   F
+1/3/24 3:04:49 PM :Debug: Command Non-VolatileBytes for I resolved to: x49                                                                   I
+1/3/24 3:04:49 PM :Debug: Command Non-VolatileBytes for f resolved to: x66                                                                   f
+1/3/24 3:04:49 PM :Info: Initializing Plugin Services.
+1/3/24 3:04:49 PM :Info: Loading Plugins.
+1/3/24 3:04:49 PM :Info: Initializing Help.
+1/3/24 3:04:49 PM :Info: Initializing Edition Features.
+1/3/24 3:04:49 PM :Info: Initializing App Events.
+1/3/24 3:04:49 PM :Debug: App Name:TunerStudio, appEdition:MS Ultra
+1/3/24 3:04:49 PM :Info: Initializing Log Viewer Components.
+1/3/24 3:04:49 PM :Info: Initializing User Interface
+1/3/24 3:04:50 PM :Warning: Unable to set Main cluster for title:
+1/3/24 3:04:51 PM :Info: Loading Font list.
+1/3/24 3:04:52 PM :Debug: Time to retreive font name list: 183 ms.
+1/3/24 3:04:52 PM :Info: 
+1/3/24 3:04:52 PM :Info: Initializing UI Components.
+1/3/24 3:04:52 PM :Debug: EventTrigger cltTempWarning Reset. expression: coolant < 200
+1/3/24 3:04:52 PM :Debug: EventTrigger syncLossDetect Reset after resetDelay (ms): 1000
+1/3/24 3:04:52 PM :Info: Ready
+1/3/24 3:04:52 PM :Info: Opening Last Project....
+1/3/24 3:04:52 PM :Info: Opening Project ...
+1/3/24 3:04:52 PM :Debug: Opening project: C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA
+1/3/24 3:04:52 PM :Debug: EventTrigger cltTempWarning Reset. expression: coolant < 200
+1/3/24 3:04:52 PM :Debug: EventTrigger syncLossDetect Reset after resetDelay (ms): 1000
+1/3/24 3:04:52 PM :Debug: EventTrigger Data log Reset. expression: AppEvent.dataLoggingActive == 0
+1/3/24 3:04:52 PM :Debug: EventTrigger cltTempWarning Reset. expression: coolant < 200
+1/3/24 3:04:52 PM :Debug: EventTrigger syncLossDetect Reset after resetDelay (ms): 1000
+1/3/24 3:04:52 PM :Debug: EventTrigger Stop Data log Reset. expression: AppEvent.dataLoggingActive != 0
+1/3/24 3:04:52 PM :Debug: EventTrigger cltTempWarning Reset. expression: coolant < 200
+1/3/24 3:04:52 PM :Debug: EventTrigger syncLossDetect Reset after resetDelay (ms): 1000
+1/3/24 3:04:52 PM :Debug: Reading translation file as plain text
+1/3/24 3:04:52 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 3:04:52 PM :Debug: Filtered ConfigurationOptionGroup in 12ms.
+1/3/24 3:04:52 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 3:04:52 PM :Info: Read file canPcVariables.ini: 3.0541ms
+1/3/24 3:04:52 PM :Info: Filtered ini: 0.0412ms
+1/3/24 3:04:52 PM :Info: No iniVersion defined
+1/3/24 3:04:52 PM :Info: Loading Trigger Wheels
+1/3/24 3:04:52 PM :Info: Loaded All known ini sections
+1/3/24 3:04:52 PM :Info: Parsed and validated ini "canPcVariables.ini" in : 15ms.
+1/3/24 3:04:52 PM :Info: Read file mainController.ini: 5.3948ms
+1/3/24 3:04:52 PM :Info: Filtered ini: 5.8862ms
+1/3/24 3:04:52 PM :Info: No iniVersion defined
+1/3/24 3:04:52 PM :Debug: ini signature: speeduino 202310
+1/3/24 3:04:52 PM :Info: Loading Trigger Wheels
+1/3/24 3:04:52 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+1/3/24 3:04:52 PM :Info: Loaded All known ini sections
+1/3/24 3:04:52 PM :Info: Parsed and validated ini "mainController.ini" in : 178ms.
+1/3/24 3:04:52 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 3:04:52 PM :Info: Read file speeduinoSupplement.ecu: 13.8327ms
+1/3/24 3:04:52 PM :Info: Filtered ini: 0.1231ms
+1/3/24 3:04:52 PM :Info: No iniVersion defined
+1/3/24 3:04:52 PM :Info: Loading Trigger Wheels
+1/3/24 3:04:52 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+1/3/24 3:04:52 PM :Info: Validate Expressions disabled.
+1/3/24 3:04:52 PM :Info: Loaded All known ini sections
+1/3/24 3:04:52 PM :Info: Parsed ini "speeduinoSupplement.ecu" in : 19ms.
+1/3/24 3:04:52 PM :Info: Not Loading default Tools because they were already loaded from the project ini(s)
+1/3/24 3:04:52 PM :Info: Time to load primary config: 312.44348ms. used cached config: false
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+1/3/24 3:04:52 PM :Debug: set baud to 115200
+1/3/24 3:04:52 PM :Debug: Adding Configuration: Miata-99-NA
+1/3/24 3:04:52 PM :Debug: controllerOnline = 0.0
+1/3/24 3:04:52 PM :Debug: Activating Event Trigger: TriggeredPage0 Refresh:  vssRefresh > 0 
+1/3/24 3:04:52 PM :Debug: Fill Constants: 4
+1/3/24 3:04:52 PM :Info: Tune opened, 3380 bytes updated. File:C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA\CurrentTune.msq
+1/3/24 3:04:52 PM :Info: Tune opened, 3380 bytes updated. File:C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA\CurrentTune.msq
+1/3/24 3:04:52 PM :Info: dirtyData.size(): 0
+1/3/24 3:04:52 PM :Info: dirtyData.size(): 0
+1/3/24 3:04:52 PM :Debug: Flush lasted: 75ms.
+1/3/24 3:04:52 PM :Info: dirtyData.size(): 0
+1/3/24 3:04:53 PM :Info: dirtyData.size(): 0
+1/3/24 3:04:53 PM :Debug: Flush lasted: 77ms.
+1/3/24 3:04:53 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:04:53 PM :Info: !!! Loaded config in 676
+1/3/24 3:04:53 PM :Info: !!! Activated Project 864
+1/3/24 3:04:53 PM :Info: Opening Gauge Cluster..
+1/3/24 3:04:53 PM :Info: Time to load uncached dash: 97.6054ms, file: dashboard.dash
+1/3/24 3:04:53 PM :Debug: Deactivated fast paint Main Dashboard
+1/3/24 3:04:53 PM :Debug: High Speed Paint: false
+1/3/24 3:04:53 PM :Info: 
+1/3/24 3:04:53 PM :Info: Com Thread created: COMM Thread86796.51418402824
+1/3/24 3:04:53 PM :Info: endModalBlock called, but Root Pane is not a ProgressPane.
+1/3/24 3:04:53 PM :Info: Comm Manager for Miata-99-NA Started, thread ID: COMM Thread86796.51418402824
+1/3/24 3:04:53 PM :Debug: Port not valid: Unable to open port: COM15
+Please check your Communications Settings. 
+1/3/24 3:04:53 PM :Debug: Font for 'Mark Pro Normal' not found.
+1/3/24 3:04:53 PM :Info: Time to load uncached dash: 208.12ms, file: Default.dash
+1/3/24 3:04:53 PM :Debug: High Speed Paint: true
+1/3/24 3:04:53 PM :Debug: !!! Opened Dash 1424
+1/3/24 3:04:53 PM :Info: Miata-99-NA Ready
+1/3/24 3:04:53 PM :Debug: Tuning View Files loaded in 0.3493ms.
+1/3/24 3:04:54 PM :Debug: EventTrigger cltTempWarning Reset. expression: coolant < 200
+1/3/24 3:04:54 PM :Debug: EventTrigger syncLossDetect Reset after resetDelay (ms): 1000
+1/3/24 3:04:54 PM :Debug: Activating Event Trigger: cltTempWarning
+1/3/24 3:04:54 PM :Debug: Activating Event Trigger: syncLossDetect
+1/3/24 3:04:54 PM :Debug: Deactivating Event Trigger: syncLossDetect
+1/3/24 3:04:54 PM :Debug: Activating Event Trigger: syncLossDetect
+1/3/24 3:04:54 PM :Info: EventTrigger: Miata-99-NA.syncLossDetect loaded and activated.
+1/3/24 3:04:54 PM :Debug: Activating Event Trigger: Stop Data log
+1/3/24 3:04:54 PM :Info: EventTrigger: Miata-99-NA.Stop Data log loaded and activated.
+1/3/24 3:04:54 PM :Debug: Deactivating Event Trigger: cltTempWarning
+1/3/24 3:04:54 PM :Debug: Activating Event Trigger: cltTempWarning
+1/3/24 3:04:54 PM :Info: EventTrigger: Miata-99-NA.cltTempWarning loaded and activated.
+1/3/24 3:04:54 PM :Debug: Activating Event Trigger: Data log
+1/3/24 3:04:54 PM :Info: EventTrigger: Miata-99-NA.Data log loaded and activated.
+1/3/24 3:04:54 PM :Info: EventTrigger: Miata-99-NA.TriggeredPage0 Refresh:  vssRefresh > 0  not active.
+1/3/24 3:05:14 PM :Debug: Directory Changed:
+	Old:C:\Users\alejo\OneDrive\Documents
+	New:C:\Users\alejo\OneDrive\TunerStudioFiles
+1/3/24 3:05:18 PM :Debug: File Changed:
+	Old:null
+	New:C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-97-Turbo
+1/3/24 3:05:18 PM :Info: Opening Project ...
+1/3/24 3:05:18 PM :Debug: TuneLog Editor set text
+1/3/24 3:05:18 PM :Debug: Fill Constants: 0
+1/3/24 3:05:18 PM :Debug: File does not exist, creating new:
+C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA\restorePoints\Miata-99-NA_2024-01-03_15.05.18.msq
+1/3/24 3:05:18 PM :Info: Time to save msq: 61.17
+1/3/24 3:05:18 PM :Info: Miata-99-NA Restore point saved
+1/3/24 3:05:18 PM :Info: Miata-99-NA Restore point saved to: Miata-99-NA_2024-01-03_15.05.18.msq
+1/3/24 3:05:18 PM :Info: Time to save msq: 11.1585
+1/3/24 3:05:18 PM :Debug: goOffline Starting, Time:1
+1/3/24 3:05:18 PM :Info: Deactivated Turbo Baud, goOffline
+1/3/24 3:05:18 PM :Debug: goOffline about to stopProcessing, Time:1
+1/3/24 3:05:18 PM :Debug: goOffline closed port, Time:1
+1/3/24 3:05:19 PM :Info: Miata-99-NA ComThread stopped COMM Thread86796.51418402824
+1/3/24 3:05:19 PM :Debug: goOffline comm thread stopped, Time:296
+1/3/24 3:05:19 PM :Debug: No Remaining Queue Write instructions
+1/3/24 3:05:19 PM :Debug: removing Configuration: Miata-99-NA
+1/3/24 3:05:19 PM :Debug: ############################################# Save Project Backup ##########################################
+1/3/24 3:05:19 PM :Debug: Opening project: C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-97-Turbo
+1/3/24 3:05:19 PM :Info: User Trigger cltTempWarning active: true
+1/3/24 3:05:19 PM :Info: User Trigger syncLossDetect active: true
+1/3/24 3:05:19 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 3:05:19 PM :Debug: Filtered ConfigurationOptionGroup in 20ms.
+1/3/24 3:05:19 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 3:05:19 PM :Info: Read file canPcVariables.ini: 2.177ms
+1/3/24 3:05:19 PM :Info: Filtered ini: 0.0079ms
+1/3/24 3:05:19 PM :Info: No iniVersion defined
+1/3/24 3:05:19 PM :Info: Loading Trigger Wheels
+1/3/24 3:05:19 PM :Info: Loaded All known ini sections
+1/3/24 3:05:19 PM :Info: Parsed and validated ini "canPcVariables.ini" in : 0ms.
+1/3/24 3:05:19 PM :Info: Read file mainController.ini: 58.2424ms
+1/3/24 3:05:19 PM :Info: Filtered ini: 9.1569ms
+1/3/24 3:05:19 PM :Info: No iniVersion defined
+1/3/24 3:05:19 PM :Debug: ini signature: MS3 Format 0566.05P
+1/3/24 3:05:19 PM :Warning: bit Constant knkport, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:719]:       knkport         = bits,    U08,    213, [0:5], $PIN_DIGIN
+
+1/3/24 3:05:19 PM :Warning: bit Constant tsw_pin_f, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:777]:       tsw_pin_f       = bits,    U08,    249,      [0:5], $PIN_DIGIN, 14="Blend Curve (3)"
+
+1/3/24 3:05:19 PM :Warning: bit Constant tsw_pin_s, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:793]:       tsw_pin_s       = bits,    U08,    267,      [0:5], $PIN_DIGIN, 14="Blend Curve (4)"
+
+1/3/24 3:05:19 PM :Warning: bit Constant launch_opt_pins, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:837]:       launch_opt_pins = bits,  U08,    299,  [0:5], $PIN_DIGIN
+
+1/3/24 3:05:19 PM :Warning: bit Constant N2Oopt_pins, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:906]:       N2Oopt_pins   = bits,     U08, 355, [0:5], $PIN_DIGIN
+
+1/3/24 3:05:19 PM :Warning: bit Constant log_style2_but, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1014]:       log_style2_but = bits, U08, 485, [0:5], $PIN_DIGIN
+
+1/3/24 3:05:19 PM :Warning: bit Constant boost_feats_tsw, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1060]:       boost_feats_tsw     = bits,    U08,    704,      [0:5], $PIN_DIGIN_OFF, 14="Blend Curve(6)"
+
+1/3/24 3:05:19 PM :Warning: bit Constant launch_3step_in, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1065]:       launch_3step_in      = bits,  U08,     705,      [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:05:19 PM :Warning: bit Constant tsw_pin_ob, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1143]:       tsw_pin_ob       = bits,   U08,    787,      [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:05:19 PM :Warning: bit Constant tsw_pin_rf, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1169]:       tsw_pin_rf       = bits,   U08,    812,      [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:05:19 PM :Warning: bit Constant tsw_pin_afr, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1170]:       tsw_pin_afr      = bits,   U08,    813,      [0:5], $PIN_DIGIN_OFF, 14="Blend curve(5)"
+
+1/3/24 3:05:19 PM :Warning: bit Constant tsw_pin_stoich, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1171]:       tsw_pin_stoich   = bits,   U08,    814,      [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:05:19 PM :Warning: bit Constant water_pins_in_shut, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1182]:       water_pins_in_shut = bits,    U08, 822,      [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:05:19 PM :Warning: bit Constant ac_idleup_io_in, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1314]:     ac_idleup_io_in = bits, U08,       951, [0:5], $PIN_DIGIN
+
+1/3/24 3:05:19 PM :Warning: bit Constant tc_enin, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1525]:       tc_enin       = bits, U08, 80, [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:05:19 PM :Warning: bit Constant ltt_but_in, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1622]:     ltt_but_in    = bits, U08, 241, [0:5], $PIN_DIGIN
+
+1/3/24 3:05:19 PM :Warning: bit Constant timedout1_in, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1644]:     timedout1_in    = bits, U08, 252, [0:5], $PIN_DIGIN_OFF, 15="Same as launch"
+
+1/3/24 3:05:19 PM :Warning: bit Constant alternator_freq_monin, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1778]:     alternator_freq_monin    = bits,   U08,  382, [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:05:19 PM :Warning: bit Constant alternator_freq_currin, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1783]:     alternator_freq_currin    = bits,   U08,  388, [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:05:19 PM :Warning: bit Constant tcs_in, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1819]:     tcs_in    = bits, U08, 434, [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:05:19 PM :Warning: bit Constant shift_cut_in, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:2101]:     shift_cut_in    = bits, U08, 813, [0:5], $PIN_DIGIN
+
+1/3/24 3:05:19 PM :Warning: bit Constant dualfuel_pin, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:2219]:     dualfuel_pin     = bits, U08, 900, [0:5], $PIN_DIGIN
+
+1/3/24 3:05:19 PM :Warning: bit Constant llstg_in, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:2296]:       llstg_in = bits,  U08,    986,  [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:05:19 PM :Warning: bit Constant als_in_pin, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:2743]:       als_in_pin     = bits,    U08,    343, [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:05:19 PM :Warning: bit Constant tclu_brakepin, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:2824]:       tclu_brakepin       = bits,    U08,    927, [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:05:19 PM :Warning: bit Constant tclu_enablepin, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:2825]:       tclu_enablepin      = bits,    U08,    928, [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:05:19 PM :Warning: bit Constant pitlim_enin, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:3362]:       pitlim_enin       = bits, U08, 561, [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:05:19 PM :Info: Loading Trigger Wheels
+1/3/24 3:05:19 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+1/3/24 3:05:19 PM :Info: Loaded All known ini sections
+1/3/24 3:05:19 PM :Info: Parsed and validated ini "mainController.ini" in : 170ms.
+1/3/24 3:05:19 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 3:05:19 PM :Info: Read file ms3Supplement.ecu: 4.6666ms
+1/3/24 3:05:19 PM :Info: Filtered ini: 0.0297ms
+1/3/24 3:05:19 PM :Info: No iniVersion defined
+1/3/24 3:05:19 PM :Info: Loading Trigger Wheels
+1/3/24 3:05:19 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+1/3/24 3:05:19 PM :Info: Validate Expressions disabled.
+1/3/24 3:05:19 PM :Info: Loaded All known ini sections
+1/3/24 3:05:19 PM :Info: Parsed ini "ms3Supplement.ecu" in : 8ms.
+1/3/24 3:05:19 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 3:05:19 PM :Info: Read file ms3DefaultTools.ini: 1.4896ms
+1/3/24 3:05:19 PM :Info: Filtered ini: 0.0024ms
+1/3/24 3:05:19 PM :Info: No iniVersion defined
+1/3/24 3:05:19 PM :Info: Loading Trigger Wheels
+1/3/24 3:05:19 PM :Info: Loaded All known ini sections
+1/3/24 3:05:19 PM :Info: Parsed and validated ini "ms3DefaultTools.ini" in : 5ms.
+1/3/24 3:05:19 PM :Info: Time to load primary config: 207.53151ms. used cached config: false
+1/3/24 3:05:19 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 3:05:19 PM :Info: Read file ms3_1.0_WueAnalyzeMap.ecu: 1.1452ms
+1/3/24 3:05:19 PM :Info: Filtered ini: 0.0231ms
+1/3/24 3:05:19 PM :Info: No iniVersion defined
+1/3/24 3:05:19 PM :Info: Loading Trigger Wheels
+1/3/24 3:05:19 PM :Info: Loaded All known ini sections
+1/3/24 3:05:19 PM :Info: Parsed and validated ini "ms3_1.0_WueAnalyzeMap.ecu" in : 5ms.
+Jan 03, 2024 3:05:19 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+1/3/24 3:05:19 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 3:05:19 PM :Info: Read file custom.ini: 1.8615ms
+1/3/24 3:05:19 PM :Info: Filtered ini: 0.0026ms
+1/3/24 3:05:19 PM :Info: No iniVersion defined
+1/3/24 3:05:19 PM :Info: Loading Trigger Wheels
+1/3/24 3:05:19 PM :Info: Loaded All known ini sections
+1/3/24 3:05:19 PM :Info: Parsed and validated ini "custom.ini" in : 5ms.
+1/3/24 3:05:19 PM :Debug: Adding Configuration: Miata-97-Turbo
+1/3/24 3:05:19 PM :Debug: controllerOnline = 0.0
+1/3/24 3:05:19 PM :Debug: controllerOnline = 0.0
+1/3/24 3:05:19 PM :Debug: Fill Constants: 23
+1/3/24 3:05:19 PM :Info: Tune opened, 18504 bytes updated. File:C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-97-Turbo\CurrentTune.msq
+1/3/24 3:05:19 PM :Info: Tune opened, 18504 bytes updated. File:C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-97-Turbo\CurrentTune.msq
+1/3/24 3:05:19 PM :Info: dirtyData.size(): 0
+1/3/24 3:05:19 PM :Info: dirtyData.size(): 0
+1/3/24 3:05:19 PM :Debug: Flush lasted: 71ms.
+1/3/24 3:05:19 PM :Info: dirtyData.size(): 0
+1/3/24 3:05:19 PM :Info: dirtyData.size(): 0
+1/3/24 3:05:19 PM :Debug: Flush lasted: 70ms.
+1/3/24 3:05:19 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:05:19 PM :Info: !!! Loaded config in 582
+1/3/24 3:05:19 PM :Info: !!! Activated Project 721
+1/3/24 3:05:19 PM :Info: Opening Gauge Cluster..
+1/3/24 3:05:19 PM :Info: Time to load uncached dash: 107.9368ms, file: dashboard.dash
+1/3/24 3:05:19 PM :Debug: controllerOnline = 0.0
+1/3/24 3:05:19 PM :Debug: controllerOnline = 0.0
+1/3/24 3:05:19 PM :Debug: Deactivated fast paint Main Dashboard
+1/3/24 3:05:20 PM :Debug: controllerOnline = 0.0
+1/3/24 3:05:20 PM :Debug: controllerOnline = 0.0
+1/3/24 3:05:20 PM :Debug: High Speed Paint: false
+1/3/24 3:05:20 PM :Info: 
+1/3/24 3:05:20 PM :Info: Com Thread created: COMM Thread93811.48814727241
+1/3/24 3:05:20 PM :Info: endModalBlock called, but Root Pane is not a ProgressPane.
+1/3/24 3:05:20 PM :Info: Comm Manager for Miata-97-Turbo Started, thread ID: COMM Thread93811.48814727241
+1/3/24 3:05:20 PM :Debug: !!! Opened Dash 1173
+1/3/24 3:05:20 PM :Info: Miata-97-Turbo Ready
+Jan 03, 2024 3:05:20 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+1/3/24 3:05:20 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+1/3/24 3:05:20 PM :Debug: Reading translation file as plain text
+1/3/24 3:05:20 PM :Debug: Tuning View Files loaded in 0.1679ms.
+1/3/24 3:05:20 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 3:05:20 PM :Info: Read file ms3VeAnalyzeMaps.ini: 3.3664ms
+1/3/24 3:05:20 PM :Info: Filtered ini: 0.2662ms
+1/3/24 3:05:20 PM :Info: No iniVersion defined
+1/3/24 3:05:20 PM :Info: Loading Trigger Wheels
+1/3/24 3:05:20 PM :Info: Loaded All known ini sections
+1/3/24 3:05:20 PM :Info: Parsed and validated ini "ms3VeAnalyzeMaps.ini" in : 9ms.
+1/3/24 3:05:20 PM :Debug: Activating Event Trigger: syncLossDetect
+1/3/24 3:05:20 PM :Info: EventTrigger: Miata-97-Turbo.syncLossDetect loaded and activated.
+1/3/24 3:05:20 PM :Debug: Activating Event Trigger: cltTempWarning
+1/3/24 3:05:20 PM :Info: EventTrigger: Miata-97-Turbo.cltTempWarning loaded and activated.
+1/3/24 3:05:20 PM :Info: EventTrigger: Miata-97-Turbo.playRacecarWOT not active.
+Jan 03, 2024 3:05:22 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:05:24 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:05:26 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:05:28 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:05:30 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:05:32 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:05:34 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+1/3/24 3:05:34 PM :Debug: Received Instruction: Read Chunk 1, Page: 1
+1/3/24 3:05:34 PM :Info: Initiating read page 1 : 46:341
+Jan 03, 2024 3:05:36 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:05:38 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:05:40 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:05:42 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:05:44 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:05:46 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:05:48 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:05:50 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:05:52 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:05:54 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:05:56 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:05:58 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:00 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:02 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:04 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:06 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+1/3/24 3:06:06 PM :Info: dirtyData.size(): 0
+1/3/24 3:06:06 PM :Info: dirtyData.size(): 0
+1/3/24 3:06:06 PM :Debug: Flush lasted: 71ms.
+1/3/24 3:06:06 PM :Debug: Skip Burn, last write page: -2
+Jan 03, 2024 3:06:08 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:10 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:12 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:14 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:16 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:18 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:20 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:22 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:24 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:26 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:28 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:30 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:32 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:34 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:36 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:38 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:40 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:42 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:44 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:46 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:48 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:50 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:52 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:54 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:56 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:06:58 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:00 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:02 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:04 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:06 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:08 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:10 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:12 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:14 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:16 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:18 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:20 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:22 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:24 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:26 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:28 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:30 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:32 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:34 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:36 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:38 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:40 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:42 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:44 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:46 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:48 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:50 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:52 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:54 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:56 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:07:58 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:00 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:02 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:04 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:06 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:08 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:10 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:12 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:14 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:16 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:18 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:20 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:22 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:24 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:26 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:28 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:30 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:32 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:34 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:36 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:38 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:40 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:42 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:44 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:46 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:48 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:50 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:52 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:54 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:56 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:08:58 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:00 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:02 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:04 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:06 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:08 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:10 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:12 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:14 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:16 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:18 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:20 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:22 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:24 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:26 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:28 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:30 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:32 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:34 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:36 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:38 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:40 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:42 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:44 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:47 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:49 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:51 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:53 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:55 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:57 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:09:59 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:01 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:03 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:05 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:07 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:09 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:11 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:13 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:15 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:17 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:19 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:21 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:23 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:25 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:27 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:29 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:31 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:33 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:35 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:37 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:39 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:41 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:43 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:45 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:47 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:49 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:51 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:53 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:55 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:57 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:10:59 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:01 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:03 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:05 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:07 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:09 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:11 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:13 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:15 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:17 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:19 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:21 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:23 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:25 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:27 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:29 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:31 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:33 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:35 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:37 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:39 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:41 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:43 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:45 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:47 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:49 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Starting on GARAGEPC
+TunerStudio 3.1.08 started on Wed Jan 03 15:11:50 EST 2024
+JRE 1.8.0_66, Windows 10 10.0, x86
+java.library.path=./lib
+TunerStudioMS.jar
+Look:Metal, ClassName:'javax.swing.plaf.metal.MetalLookAndFeel'
+Look:Nimbus, ClassName:'javax.swing.plaf.nimbus.NimbusLookAndFeel'
+Look:CDE/Motif, ClassName:'com.sun.java.swing.plaf.motif.MotifLookAndFeel'
+Look:Windows, ClassName:'com.sun.java.swing.plaf.windows.WindowsLookAndFeel'
+Look:Windows Classic, ClassName:'com.sun.java.swing.plaf.windows.WindowsClassicLookAndFeel'
+Look:Night Shade, ClassName:'de.muntjak.tinylookandfeel.TinyLookAndFeel'
+Setting Look & Feel to:javax.swing.plaf.metal.MetalLookAndFeel
+ScrollBar.width
+1/3/24 3:11:50 PM :Debug: no update:defaultFont
+1/3/24 3:11:50 PM :Info: Initializing File Dialogs.
+1/3/24 3:11:50 PM :Debug: hid: 601.5549
+1/3/24 3:11:51 PM :Info: Updating ai & t
+1/3/24 3:11:51 PM :Info: Loading Language Content.
+Jan 03, 2024 3:11:51 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:53 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:55 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:57 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:11:59 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:01 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:03 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:05 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:07 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:09 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:11 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:13 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:15 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:17 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:19 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:21 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+1/3/24 3:12:22 PM :Info: Opening Project ...
+1/3/24 3:12:22 PM :Debug: TuneLog Editor set text
+1/3/24 3:12:22 PM :Info: Maintain Restore Point size to 10.0 size. Deleting:
+C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-97-Turbo\restorePoints\MS3Pro_Miata_2023-01-08_14.02.45.msq
+1/3/24 3:12:22 PM :Debug: File does not exist, creating new:
+C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-97-Turbo\restorePoints\Miata-97-Turbo_2024-01-03_15.12.22.msq
+1/3/24 3:12:22 PM :Info: Time to save msq: 39.1952
+1/3/24 3:12:22 PM :Info: Miata-97-Turbo Restore point saved
+1/3/24 3:12:22 PM :Info: Miata-97-Turbo Restore point saved to: Miata-97-Turbo_2024-01-03_15.12.22.msq
+1/3/24 3:12:22 PM :Info: Time to save msq: 16.2682
+1/3/24 3:12:22 PM :Debug: goOffline Starting, Time:0
+1/3/24 3:12:22 PM :Info: Deactivated Turbo Baud, goOffline
+1/3/24 3:12:22 PM :Debug: goOffline about to stopProcessing, Time:0
+1/3/24 3:12:22 PM :Debug: goOffline closed port, Time:0
+1/3/24 3:12:23 PM :Info: Miata-97-Turbo ComThread stopped COMM Thread93811.48814727241
+1/3/24 3:12:23 PM :Debug: goOffline comm thread stopped, Time:1197
+1/3/24 3:12:23 PM :Debug: No Remaining Queue Write instructions
+1/3/24 3:12:23 PM :Debug: removing Configuration: Miata-97-Turbo
+1/3/24 3:12:23 PM :Debug: ############################################# Save Project Backup ##########################################
+1/3/24 3:12:23 PM :Debug: Opening project: C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-97-Turbo
+1/3/24 3:12:23 PM :Info: User Trigger cltTempWarning active: true
+1/3/24 3:12:23 PM :Info: User Trigger syncLossDetect active: true
+1/3/24 3:12:23 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 3:12:23 PM :Debug: Filtered ConfigurationOptionGroup in 16ms.
+1/3/24 3:12:23 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 3:12:23 PM :Info: Read file canPcVariables.ini: 1.9929ms
+1/3/24 3:12:23 PM :Info: Filtered ini: 0.0081ms
+1/3/24 3:12:23 PM :Info: No iniVersion defined
+1/3/24 3:12:23 PM :Info: Loading Trigger Wheels
+1/3/24 3:12:23 PM :Info: Loaded All known ini sections
+1/3/24 3:12:23 PM :Info: Parsed and validated ini "canPcVariables.ini" in : 2ms.
+1/3/24 3:12:23 PM :Info: Read file mainController.ini: 11.0831ms
+1/3/24 3:12:23 PM :Info: Filtered ini: 18.077ms
+1/3/24 3:12:23 PM :Info: No iniVersion defined
+1/3/24 3:12:23 PM :Debug: ini signature: MS3 Format 0566.05P
+1/3/24 3:12:23 PM :Warning: bit Constant knkport, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:719]:       knkport         = bits,    U08,    213, [0:5], $PIN_DIGIN
+
+1/3/24 3:12:23 PM :Warning: bit Constant tsw_pin_f, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:777]:       tsw_pin_f       = bits,    U08,    249,      [0:5], $PIN_DIGIN, 14="Blend Curve (3)"
+
+1/3/24 3:12:23 PM :Warning: bit Constant tsw_pin_s, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:793]:       tsw_pin_s       = bits,    U08,    267,      [0:5], $PIN_DIGIN, 14="Blend Curve (4)"
+
+1/3/24 3:12:23 PM :Warning: bit Constant launch_opt_pins, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:837]:       launch_opt_pins = bits,  U08,    299,  [0:5], $PIN_DIGIN
+
+1/3/24 3:12:23 PM :Warning: bit Constant N2Oopt_pins, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:906]:       N2Oopt_pins   = bits,     U08, 355, [0:5], $PIN_DIGIN
+
+1/3/24 3:12:23 PM :Warning: bit Constant log_style2_but, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1014]:       log_style2_but = bits, U08, 485, [0:5], $PIN_DIGIN
+
+1/3/24 3:12:23 PM :Warning: bit Constant boost_feats_tsw, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1060]:       boost_feats_tsw     = bits,    U08,    704,      [0:5], $PIN_DIGIN_OFF, 14="Blend Curve(6)"
+
+1/3/24 3:12:23 PM :Warning: bit Constant launch_3step_in, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1065]:       launch_3step_in      = bits,  U08,     705,      [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:12:23 PM :Warning: bit Constant tsw_pin_ob, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1143]:       tsw_pin_ob       = bits,   U08,    787,      [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:12:23 PM :Warning: bit Constant tsw_pin_rf, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1169]:       tsw_pin_rf       = bits,   U08,    812,      [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:12:23 PM :Warning: bit Constant tsw_pin_afr, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1170]:       tsw_pin_afr      = bits,   U08,    813,      [0:5], $PIN_DIGIN_OFF, 14="Blend curve(5)"
+
+1/3/24 3:12:23 PM :Warning: bit Constant tsw_pin_stoich, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1171]:       tsw_pin_stoich   = bits,   U08,    814,      [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:12:23 PM :Warning: bit Constant water_pins_in_shut, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1182]:       water_pins_in_shut = bits,    U08, 822,      [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:12:23 PM :Warning: bit Constant ac_idleup_io_in, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1314]:     ac_idleup_io_in = bits, U08,       951, [0:5], $PIN_DIGIN
+
+1/3/24 3:12:23 PM :Warning: bit Constant tc_enin, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1525]:       tc_enin       = bits, U08, 80, [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:12:23 PM :Warning: bit Constant ltt_but_in, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1622]:     ltt_but_in    = bits, U08, 241, [0:5], $PIN_DIGIN
+
+1/3/24 3:12:23 PM :Warning: bit Constant timedout1_in, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1644]:     timedout1_in    = bits, U08, 252, [0:5], $PIN_DIGIN_OFF, 15="Same as launch"
+
+1/3/24 3:12:23 PM :Warning: bit Constant alternator_freq_monin, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1778]:     alternator_freq_monin    = bits,   U08,  382, [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:12:23 PM :Warning: bit Constant alternator_freq_currin, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1783]:     alternator_freq_currin    = bits,   U08,  388, [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:12:23 PM :Warning: bit Constant tcs_in, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:1819]:     tcs_in    = bits, U08, 434, [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:12:23 PM :Warning: bit Constant shift_cut_in, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:2101]:     shift_cut_in    = bits, U08, 813, [0:5], $PIN_DIGIN
+
+1/3/24 3:12:23 PM :Warning: bit Constant dualfuel_pin, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:2219]:     dualfuel_pin     = bits, U08, 900, [0:5], $PIN_DIGIN
+
+1/3/24 3:12:23 PM :Warning: bit Constant llstg_in, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:2296]:       llstg_in = bits,  U08,    986,  [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:12:23 PM :Warning: bit Constant als_in_pin, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:2743]:       als_in_pin     = bits,    U08,    343, [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:12:23 PM :Warning: bit Constant tclu_brakepin, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:2824]:       tclu_brakepin       = bits,    U08,    927, [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:12:23 PM :Warning: bit Constant tclu_enablepin, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:2825]:       tclu_enablepin      = bits,    U08,    928, [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:12:23 PM :Warning: bit Constant pitlim_enin, contains fewer options (48) that expected(64), padding remaining with "INVALID", Problem at:
+[mainController.ini]:[Line:3362]:       pitlim_enin       = bits, U08, 561, [0:5], $PIN_DIGIN_OFF
+
+1/3/24 3:12:23 PM :Info: Loading Trigger Wheels
+1/3/24 3:12:23 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+1/3/24 3:12:23 PM :Info: Loaded All known ini sections
+1/3/24 3:12:23 PM :Info: Parsed and validated ini "mainController.ini" in : 155ms.
+1/3/24 3:12:23 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 3:12:23 PM :Info: Read file ms3Supplement.ecu: 9.1073ms
+1/3/24 3:12:23 PM :Info: Filtered ini: 0.0811ms
+1/3/24 3:12:23 PM :Info: No iniVersion defined
+1/3/24 3:12:23 PM :Info: Loading Trigger Wheels
+1/3/24 3:12:23 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+1/3/24 3:12:23 PM :Info: Validate Expressions disabled.
+1/3/24 3:12:23 PM :Info: Loaded All known ini sections
+1/3/24 3:12:23 PM :Info: Parsed ini "ms3Supplement.ecu" in : 12ms.
+1/3/24 3:12:23 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 3:12:23 PM :Info: Read file ms3DefaultTools.ini: 1.876ms
+1/3/24 3:12:23 PM :Info: Filtered ini: 0.0028ms
+1/3/24 3:12:23 PM :Info: No iniVersion defined
+1/3/24 3:12:23 PM :Info: Loading Trigger Wheels
+1/3/24 3:12:24 PM :Info: Loaded All known ini sections
+1/3/24 3:12:24 PM :Info: Parsed and validated ini "ms3DefaultTools.ini" in : 7ms.
+1/3/24 3:12:24 PM :Info: Time to load primary config: 201.0251ms. used cached config: false
+1/3/24 3:12:24 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 3:12:24 PM :Info: Read file ms3_1.0_WueAnalyzeMap.ecu: 1.8341ms
+1/3/24 3:12:24 PM :Info: Filtered ini: 0.0529ms
+1/3/24 3:12:24 PM :Info: No iniVersion defined
+1/3/24 3:12:24 PM :Info: Loading Trigger Wheels
+1/3/24 3:12:24 PM :Info: Loaded All known ini sections
+1/3/24 3:12:24 PM :Info: Parsed and validated ini "ms3_1.0_WueAnalyzeMap.ecu" in : 8ms.
+Jan 03, 2024 3:12:24 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+1/3/24 3:12:24 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 3:12:24 PM :Info: Read file custom.ini: 1.7535ms
+1/3/24 3:12:24 PM :Info: Filtered ini: 0.0024ms
+1/3/24 3:12:24 PM :Info: No iniVersion defined
+1/3/24 3:12:24 PM :Info: Loading Trigger Wheels
+1/3/24 3:12:24 PM :Info: Loaded All known ini sections
+1/3/24 3:12:24 PM :Info: Parsed and validated ini "custom.ini" in : 7ms.
+1/3/24 3:12:24 PM :Debug: Adding Configuration: Miata-97-Turbo
+1/3/24 3:12:24 PM :Debug: controllerOnline = 0.0
+1/3/24 3:12:24 PM :Debug: controllerOnline = 0.0
+1/3/24 3:12:24 PM :Debug: Fill Constants: 48
+1/3/24 3:12:24 PM :Info: Tune opened, 18504 bytes updated. File:C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-97-Turbo\CurrentTune.msq
+1/3/24 3:12:24 PM :Info: Tune opened, 18504 bytes updated. File:C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-97-Turbo\CurrentTune.msq
+1/3/24 3:12:24 PM :Info: dirtyData.size(): 0
+1/3/24 3:12:24 PM :Info: dirtyData.size(): 0
+1/3/24 3:12:24 PM :Debug: Flush lasted: 71ms.
+1/3/24 3:12:24 PM :Info: dirtyData.size(): 0
+1/3/24 3:12:24 PM :Info: dirtyData.size(): 0
+1/3/24 3:12:24 PM :Debug: Flush lasted: 70ms.
+1/3/24 3:12:24 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:12:24 PM :Info: !!! Loaded config in 716
+1/3/24 3:12:24 PM :Info: !!! Activated Project 799
+1/3/24 3:12:24 PM :Info: Opening Gauge Cluster..
+1/3/24 3:12:24 PM :Info: Time to load uncached dash: 96.6189ms, file: dashboard.dash
+1/3/24 3:12:24 PM :Debug: controllerOnline = 0.0
+1/3/24 3:12:24 PM :Debug: controllerOnline = 0.0
+1/3/24 3:12:24 PM :Debug: controllerOnline = 0.0
+1/3/24 3:12:24 PM :Debug: controllerOnline = 0.0
+1/3/24 3:12:24 PM :Debug: High Speed Paint: false
+1/3/24 3:12:24 PM :Info: 
+1/3/24 3:12:24 PM :Info: Com Thread created: COMM Thread43659.85594720865
+1/3/24 3:12:24 PM :Info: endModalBlock called, but Root Pane is not a ProgressPane.
+1/3/24 3:12:24 PM :Info: Comm Manager for Miata-97-Turbo Started, thread ID: COMM Thread43659.85594720865
+1/3/24 3:12:24 PM :Debug: !!! Opened Dash 904
+Jan 03, 2024 3:12:24 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+1/3/24 3:12:24 PM :Debug: Port not valid: Did not find any supported FTDI Device or it is already in use.
+1/3/24 3:12:24 PM :Info: Miata-97-Turbo Ready
+1/3/24 3:12:24 PM :Debug: Reading translation file as plain text
+1/3/24 3:12:24 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 3:12:24 PM :Debug: Tuning View Files loaded in 0.1518ms.
+1/3/24 3:12:24 PM :Info: Read file ms3VeAnalyzeMaps.ini: 2.8384ms
+1/3/24 3:12:24 PM :Info: Filtered ini: 0.1013ms
+1/3/24 3:12:24 PM :Info: No iniVersion defined
+1/3/24 3:12:24 PM :Info: Loading Trigger Wheels
+1/3/24 3:12:24 PM :Info: Loaded All known ini sections
+1/3/24 3:12:24 PM :Info: Parsed and validated ini "ms3VeAnalyzeMaps.ini" in : 10ms.
+1/3/24 3:12:25 PM :Debug: Activating Event Trigger: syncLossDetect
+1/3/24 3:12:25 PM :Info: EventTrigger: Miata-97-Turbo.syncLossDetect loaded and activated.
+1/3/24 3:12:25 PM :Debug: Activating Event Trigger: cltTempWarning
+1/3/24 3:12:25 PM :Info: EventTrigger: Miata-97-Turbo.cltTempWarning loaded and activated.
+Jan 03, 2024 3:12:26 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:28 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:30 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:32 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:34 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:36 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:38 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:40 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:42 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:44 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:46 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:48 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:50 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:52 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:54 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:56 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+Jan 03, 2024 3:12:58 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+1/3/24 3:13:00 PM :Debug: File Changed:
+	Old:C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-97-Turbo
+	New:C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA
+Jan 03, 2024 3:13:00 PM com.ftdi.FTDevice getDevices
+INFO: Found devs: 0 (All:0)
+1/3/24 3:13:01 PM :Info: Opening Project ...
+1/3/24 3:13:01 PM :Debug: TuneLog Editor set text
+1/3/24 3:13:01 PM :Debug: Fill Constants: 47
+1/3/24 3:13:01 PM :Info: Skip Restore Point for 'Miata-97-Turbo' because nothing changed since: Miata-97-Turbo_2024-01-03_15.12.22.msq
+1/3/24 3:13:01 PM :Info: Time to save msq: 31.2164
+1/3/24 3:13:01 PM :Debug: goOffline Starting, Time:0
+1/3/24 3:13:01 PM :Info: Deactivated Turbo Baud, goOffline
+1/3/24 3:13:01 PM :Debug: goOffline about to stopProcessing, Time:0
+1/3/24 3:13:01 PM :Debug: goOffline closed port, Time:0
+1/3/24 3:13:02 PM :Info: Miata-97-Turbo ComThread stopped COMM Thread43659.85594720865
+1/3/24 3:13:02 PM :Debug: goOffline comm thread stopped, Time:1059
+1/3/24 3:13:02 PM :Debug: No Remaining Queue Write instructions
+1/3/24 3:13:02 PM :Debug: removing Configuration: Miata-97-Turbo
+1/3/24 3:13:02 PM :Debug: ############################################# Save Project Backup ##########################################
+1/3/24 3:13:02 PM :Debug: Opening project: C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA
+1/3/24 3:13:02 PM :Info: User Trigger cltTempWarning active: true
+1/3/24 3:13:02 PM :Info: User Trigger syncLossDetect active: true
+1/3/24 3:13:02 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 3:13:02 PM :Debug: Filtered ConfigurationOptionGroup in 9ms.
+1/3/24 3:13:02 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 3:13:02 PM :Info: Read file canPcVariables.ini: 1.9075ms
+1/3/24 3:13:02 PM :Info: Filtered ini: 0.0245ms
+1/3/24 3:13:02 PM :Info: No iniVersion defined
+1/3/24 3:13:02 PM :Info: Loading Trigger Wheels
+1/3/24 3:13:02 PM :Info: Loaded All known ini sections
+1/3/24 3:13:02 PM :Info: Parsed and validated ini "canPcVariables.ini" in : 2ms.
+1/3/24 3:13:02 PM :Info: Read file mainController.ini: 26.8593ms
+1/3/24 3:13:02 PM :Info: Filtered ini: 6.8352ms
+1/3/24 3:13:03 PM :Info: No iniVersion defined
+1/3/24 3:13:03 PM :Debug: ini signature: speeduino 202310
+1/3/24 3:13:03 PM :Info: Loading Trigger Wheels
+1/3/24 3:13:03 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+1/3/24 3:13:03 PM :Info: Loaded All known ini sections
+1/3/24 3:13:03 PM :Info: Parsed and validated ini "mainController.ini" in : 114ms.
+1/3/24 3:13:03 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 3:13:03 PM :Info: Read file speeduinoSupplement.ecu: 10.3619ms
+1/3/24 3:13:03 PM :Info: Filtered ini: 0.0388ms
+1/3/24 3:13:03 PM :Info: No iniVersion defined
+1/3/24 3:13:03 PM :Info: Loading Trigger Wheels
+1/3/24 3:13:03 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+1/3/24 3:13:03 PM :Info: Validate Expressions disabled.
+1/3/24 3:13:03 PM :Info: Loaded All known ini sections
+1/3/24 3:13:03 PM :Info: Parsed ini "speeduinoSupplement.ecu" in : 13ms.
+1/3/24 3:13:03 PM :Info: Not Loading default Tools because they were already loaded from the project ini(s)
+1/3/24 3:13:03 PM :Info: Time to load primary config: 145.3868ms. used cached config: false
+1/3/24 3:13:03 PM :Debug: set baud to 115200
+1/3/24 3:13:03 PM :Debug: Adding Configuration: Miata-99-NA
+1/3/24 3:13:03 PM :Debug: controllerOnline = 0.0
+1/3/24 3:13:03 PM :Debug: controllerOnline = 0.0
+1/3/24 3:13:03 PM :Debug: Activating Event Trigger: TriggeredPage0 Refresh:  vssRefresh > 0 
+1/3/24 3:13:03 PM :Debug: Deactivating Event Trigger: TriggeredPage0 Refresh:  vssRefresh > 0 
+1/3/24 3:13:03 PM :Debug: Activating Event Trigger: TriggeredPage0 Refresh:  vssRefresh > 0 
+1/3/24 3:13:03 PM :Debug: Fill Constants: 3
+1/3/24 3:13:03 PM :Info: Tune opened, 3380 bytes updated. File:C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA\CurrentTune.msq
+1/3/24 3:13:03 PM :Info: Tune opened, 3380 bytes updated. File:C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA\CurrentTune.msq
+1/3/24 3:13:03 PM :Info: dirtyData.size(): 0
+1/3/24 3:13:03 PM :Info: dirtyData.size(): 0
+1/3/24 3:13:03 PM :Debug: Flush lasted: 106ms.
+1/3/24 3:13:03 PM :Info: dirtyData.size(): 0
+1/3/24 3:13:03 PM :Info: dirtyData.size(): 0
+1/3/24 3:13:03 PM :Debug: Flush lasted: 71ms.
+1/3/24 3:13:03 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:13:03 PM :Info: !!! Loaded config in 374
+1/3/24 3:13:03 PM :Info: !!! Activated Project 481
+1/3/24 3:13:03 PM :Info: Opening Gauge Cluster..
+1/3/24 3:13:03 PM :Info: Time to load uncached dash: 140.1288ms, file: dashboard.dash
+1/3/24 3:13:03 PM :Debug: Deactivated fast paint Main Dashboard
+1/3/24 3:13:03 PM :Debug: High Speed Paint: false
+1/3/24 3:13:03 PM :Info: 
+1/3/24 3:13:03 PM :Info: Com Thread created: COMM Thread49118.69037860175
+1/3/24 3:13:03 PM :Info: endModalBlock called, but Root Pane is not a ProgressPane.
+1/3/24 3:13:03 PM :Info: Comm Manager for Miata-99-NA Started, thread ID: COMM Thread49118.69037860175
+1/3/24 3:13:03 PM :Debug: Port not valid: Unable to open port: COM15
+Please check your Communications Settings. 
+1/3/24 3:13:03 PM :Info: Time to load uncached dash: 187.4727ms, file: Default.dash
+1/3/24 3:13:03 PM :Debug: High Speed Paint: true
+1/3/24 3:13:03 PM :Debug: !!! Opened Dash 1003
+1/3/24 3:13:03 PM :Info: Miata-99-NA Ready
+1/3/24 3:13:03 PM :Debug: Tuning View Files loaded in 0.2479ms.
+1/3/24 3:13:04 PM :Debug: Activating Event Trigger: syncLossDetect
+1/3/24 3:13:04 PM :Info: EventTrigger: Miata-99-NA.syncLossDetect loaded and activated.
+1/3/24 3:13:04 PM :Debug: Activating Event Trigger: Stop Data log
+1/3/24 3:13:04 PM :Info: EventTrigger: Miata-99-NA.Stop Data log loaded and activated.
+1/3/24 3:13:04 PM :Debug: Activating Event Trigger: cltTempWarning
+1/3/24 3:13:04 PM :Info: EventTrigger: Miata-99-NA.cltTempWarning loaded and activated.
+1/3/24 3:13:04 PM :Debug: Activating Event Trigger: Data log
+1/3/24 3:13:04 PM :Info: EventTrigger: Miata-99-NA.Data log loaded and activated.
+1/3/24 3:13:04 PM :Info: EventTrigger: Miata-99-NA.TriggeredPage0 Refresh:  vssRefresh > 0  not active.
+1/3/24 3:13:13 PM :Debug: Received Instruction: Read Chunk 6, Page: 6
+1/3/24 3:13:13 PM :Info: Initiating read page 6 : 0:13
+1/3/24 3:18:08 PM :Info: dirtyData.size(): 0
+1/3/24 3:18:08 PM :Info: dirtyData.size(): 0
+1/3/24 3:18:08 PM :Debug: Flush lasted: 71ms.
+1/3/24 3:18:08 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:18:21 PM :Debug: Fill Constants: 5
+1/3/24 3:18:21 PM :Info: Difference Report disabling shared table Models
+1/3/24 3:18:32 PM :Debug: Fill Constants: 2
+1/3/24 3:18:32 PM :Info: Difference Report disabling shared table Models
+1/3/24 3:19:14 PM :Debug: Fill Constants: 3
+1/3/24 3:19:14 PM :Info: Difference Report disabling shared table Models
+1/3/24 3:19:36 PM :Debug: Received Instruction: Read Chunk 6, Page: 6
+1/3/24 3:19:36 PM :Info: Initiating read page 6 : 0:13
+1/3/24 3:22:52 PM :Info: dirtyData.size(): 0
+1/3/24 3:22:52 PM :Info: dirtyData.size(): 0
+1/3/24 3:22:52 PM :Debug: Flush lasted: 71ms.
+1/3/24 3:22:52 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:23:04 PM :Info: dirtyData.size(): 0
+1/3/24 3:23:04 PM :Info: dirtyData.size(): 0
+1/3/24 3:23:04 PM :Debug: Flush lasted: 71ms.
+1/3/24 3:23:04 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:23:15 PM :Info: dirtyData.size(): 0
+1/3/24 3:23:15 PM :Info: dirtyData.size(): 0
+1/3/24 3:23:15 PM :Debug: Flush lasted: 70ms.
+1/3/24 3:23:15 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:23:16 PM :Debug: Received Instruction: Read Chunk 1, Page: 1
+1/3/24 3:23:16 PM :Info: Initiating read page 1 : 61:62
+1/3/24 3:23:16 PM :Debug: Received Instruction: Read Chunk 6, Page: 6
+1/3/24 3:23:16 PM :Info: Initiating read page 6 : 47:73
+1/3/24 3:23:16 PM :Debug: Received Instruction: Read Chunk 9, Page: 9
+1/3/24 3:23:16 PM :Info: Initiating read page 9 : 153:2
+1/3/24 3:23:36 PM :Debug: Received Instruction: Read Chunk 6, Page: 6
+1/3/24 3:23:36 PM :Info: Initiating read page 6 : 84:20
+1/3/24 3:23:52 PM :Debug: Param: iacOLPWMVal value: 255.0 exceeds maximum: 100.0
+1/3/24 3:23:52 PM :Debug: Param: iacOLPWMVal value: 255.0 exceeds maximum: 100.0
+1/3/24 3:23:52 PM :Debug: Param: iacOLPWMVal value: 255.0 exceeds maximum: 100.0
+1/3/24 3:23:52 PM :Debug: Param: iacOLPWMVal value: 255.0 exceeds maximum: 100.0
+1/3/24 3:23:52 PM :Debug: Param: iacOLPWMVal value: 255.0 exceeds maximum: 100.0
+1/3/24 3:23:52 PM :Debug: Param: iacOLPWMVal value: 255.0 exceeds maximum: 100.0
+1/3/24 3:24:37 PM :Info: dirtyData.size(): 0
+1/3/24 3:24:37 PM :Info: dirtyData.size(): 0
+1/3/24 3:24:37 PM :Debug: Flush lasted: 71ms.
+1/3/24 3:24:37 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:24:43 PM :Info: dirtyData.size(): 0
+1/3/24 3:24:43 PM :Info: dirtyData.size(): 0
+1/3/24 3:24:43 PM :Debug: Flush lasted: 72ms.
+1/3/24 3:24:43 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:25:08 PM :Info: dirtyData.size(): 0
+1/3/24 3:25:08 PM :Info: dirtyData.size(): 0
+1/3/24 3:25:08 PM :Debug: Flush lasted: 70ms.
+1/3/24 3:25:08 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:25:09 PM :Info: dirtyData.size(): 0
+1/3/24 3:25:09 PM :Info: dirtyData.size(): 0
+1/3/24 3:25:09 PM :Debug: Flush lasted: 70ms.
+1/3/24 3:25:09 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:25:30 PM :Info: dirtyData.size(): 0
+1/3/24 3:25:30 PM :Info: dirtyData.size(): 0
+1/3/24 3:25:30 PM :Debug: Flush lasted: 71ms.
+1/3/24 3:25:30 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:25:36 PM :Info: Time to save msq: 41.06
+1/3/24 3:25:36 PM :Info: closeApp Called
+1/3/24 3:25:36 PM :Debug: TuneLog Editor set text
+1/3/24 3:25:36 PM :Debug: Fill Constants: 5
+1/3/24 3:25:36 PM :Debug: File does not exist, creating new:
+C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA\restorePoints\Miata-99-NA_2024-01-03_15.25.36.msq
+1/3/24 3:25:36 PM :Info: Time to save msq: 10.2012
+1/3/24 3:25:36 PM :Info: Miata-99-NA Restore point saved
+1/3/24 3:25:36 PM :Info: Miata-99-NA Restore point saved to: Miata-99-NA_2024-01-03_15.25.36.msq
+1/3/24 3:25:36 PM :Info: Time to save msq: 6.0584
+1/3/24 3:25:36 PM :Debug: goOffline Starting, Time:0
+1/3/24 3:25:36 PM :Info: Deactivated Turbo Baud, goOffline
+1/3/24 3:25:36 PM :Debug: goOffline about to stopProcessing, Time:1
+1/3/24 3:25:36 PM :Debug: goOffline closed port, Time:1
+1/3/24 3:25:36 PM :Info: Miata-99-NA ComThread stopped COMM Thread49118.69037860175
+1/3/24 3:25:36 PM :Debug: goOffline comm thread stopped, Time:153
+1/3/24 3:25:36 PM :Debug: No Remaining Queue Write instructions
+1/3/24 3:25:36 PM :Debug: removing Configuration: Miata-99-NA
+1/3/24 3:25:37 PM :Debug: ############################################# Save Project Backup ##########################################
+1/3/24 3:25:37 PM :Info: Finalizing Sensors
+Saved user properties successfully
+Starting on GARAGEPC
+TunerStudio 3.1.08 started on Wed Jan 03 15:28:45 EST 2024
+JRE 1.8.0_66, Windows 10 10.0, x86
+java.library.path=./lib
+TunerStudioMS.jar
+Look:Metal, ClassName:'javax.swing.plaf.metal.MetalLookAndFeel'
+Look:Nimbus, ClassName:'javax.swing.plaf.nimbus.NimbusLookAndFeel'
+Look:CDE/Motif, ClassName:'com.sun.java.swing.plaf.motif.MotifLookAndFeel'
+Look:Windows, ClassName:'com.sun.java.swing.plaf.windows.WindowsLookAndFeel'
+Look:Windows Classic, ClassName:'com.sun.java.swing.plaf.windows.WindowsClassicLookAndFeel'
+Look:Night Shade, ClassName:'de.muntjak.tinylookandfeel.TinyLookAndFeel'
+Setting Look & Feel to:javax.swing.plaf.metal.MetalLookAndFeel
+ScrollBar.width
+1/3/24 3:28:45 PM :Debug: no update:defaultFont
+1/3/24 3:28:45 PM :Info: Initializing File Dialogs.
+1/3/24 3:28:46 PM :Debug: hid: 633.7864
+1/3/24 3:28:46 PM :Info: Updating ai & t
+1/3/24 3:28:47 PM :Info: Loading Language Content.
+1/3/24 3:28:49 PM :Debug: Command Non-VolatileBytes for F resolved to: x46                                                                   F
+1/3/24 3:28:49 PM :Debug: Command Non-VolatileBytes for I resolved to: x49                                                                   I
+1/3/24 3:28:49 PM :Debug: Command Non-VolatileBytes for f resolved to: x66                                                                   f
+1/3/24 3:28:49 PM :Info: Initializing Plugin Services.
+1/3/24 3:28:49 PM :Info: Loading Plugins.
+1/3/24 3:28:49 PM :Info: Initializing Help.
+1/3/24 3:28:49 PM :Info: Initializing Edition Features.
+1/3/24 3:28:49 PM :Info: Initializing App Events.
+1/3/24 3:28:49 PM :Debug: App Name:TunerStudio, appEdition:MS Ultra
+1/3/24 3:28:49 PM :Info: Initializing Log Viewer Components.
+1/3/24 3:28:49 PM :Info: Initializing User Interface
+1/3/24 3:28:49 PM :Warning: Unable to set Main cluster for title:
+1/3/24 3:28:49 PM :Info: Opening Last Project....
+1/3/24 3:28:49 PM :Info: Opening Project ...
+1/3/24 3:28:49 PM :Debug: Opening project: C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA
+1/3/24 3:28:49 PM :Debug: EventTrigger Data log Reset. expression: AppEvent.dataLoggingActive == 0
+1/3/24 3:28:49 PM :Debug: EventTrigger Stop Data log Reset. expression: AppEvent.dataLoggingActive != 0
+1/3/24 3:28:49 PM :Debug: EventTrigger cltTempWarning Reset. expression: coolant < 200
+1/3/24 3:28:49 PM :Debug: EventTrigger syncLossDetect Reset after resetDelay (ms): 1000
+1/3/24 3:28:50 PM :Debug: Reading translation file as plain text
+1/3/24 3:28:50 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 3:28:50 PM :Debug: Filtered ConfigurationOptionGroup in 29ms.
+1/3/24 3:28:50 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 3:28:50 PM :Info: Read file canPcVariables.ini: 1.0868ms
+1/3/24 3:28:50 PM :Info: Filtered ini: 0.0336ms
+1/3/24 3:28:50 PM :Info: No iniVersion defined
+1/3/24 3:28:50 PM :Info: Loading Trigger Wheels
+1/3/24 3:28:50 PM :Info: Loaded All known ini sections
+1/3/24 3:28:50 PM :Info: Parsed and validated ini "canPcVariables.ini" in : 13ms.
+1/3/24 3:28:50 PM :Info: Read file mainController.ini: 4.118ms
+1/3/24 3:28:50 PM :Info: Filtered ini: 4.5015ms
+1/3/24 3:28:50 PM :Info: No iniVersion defined
+1/3/24 3:28:50 PM :Debug: ini signature: speeduino 202310
+1/3/24 3:28:50 PM :Info: Loading Trigger Wheels
+1/3/24 3:28:50 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+1/3/24 3:28:50 PM :Info: Loaded All known ini sections
+1/3/24 3:28:50 PM :Info: Parsed and validated ini "mainController.ini" in : 149ms.
+1/3/24 3:28:50 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 3:28:50 PM :Info: Read file speeduinoSupplement.ecu: 9.9414ms
+1/3/24 3:28:50 PM :Info: Filtered ini: 0.0454ms
+1/3/24 3:28:50 PM :Info: No iniVersion defined
+1/3/24 3:28:50 PM :Info: Loading Trigger Wheels
+1/3/24 3:28:50 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+1/3/24 3:28:50 PM :Info: Validate Expressions disabled.
+1/3/24 3:28:50 PM :Info: Loaded All known ini sections
+1/3/24 3:28:50 PM :Info: Parsed ini "speeduinoSupplement.ecu" in : 14ms.
+1/3/24 3:28:50 PM :Info: Not Loading default Tools because they were already loaded from the project ini(s)
+1/3/24 3:28:50 PM :Info: Time to load primary config: 270.2953ms. used cached config: false
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+1/3/24 3:28:50 PM :Debug: set baud to 115200
+1/3/24 3:28:50 PM :Debug: Adding Configuration: Miata-99-NA
+1/3/24 3:28:50 PM :Debug: controllerOnline = 0.0
+1/3/24 3:28:50 PM :Debug: Activating Event Trigger: TriggeredPage0 Refresh:  vssRefresh > 0 
+1/3/24 3:28:50 PM :Debug: Fill Constants: 5
+1/3/24 3:28:50 PM :Info: Tune opened, 3380 bytes updated. File:C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA\CurrentTune.msq
+1/3/24 3:28:50 PM :Info: Tune opened, 3380 bytes updated. File:C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA\CurrentTune.msq
+1/3/24 3:28:50 PM :Info: dirtyData.size(): 0
+1/3/24 3:28:50 PM :Info: dirtyData.size(): 0
+1/3/24 3:28:50 PM :Debug: Flush lasted: 85ms.
+1/3/24 3:28:50 PM :Info: dirtyData.size(): 0
+1/3/24 3:28:50 PM :Info: dirtyData.size(): 0
+1/3/24 3:28:50 PM :Debug: Flush lasted: 78ms.
+1/3/24 3:28:50 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:28:50 PM :Info: !!! Loaded config in 649
+1/3/24 3:28:50 PM :Info: !!! Activated Project 885
+1/3/24 3:28:50 PM :Info: Opening Gauge Cluster..
+1/3/24 3:28:50 PM :Info: Time to load uncached dash: 125.9825ms, file: dashboard.dash
+1/3/24 3:28:50 PM :Debug: Deactivated fast paint Main Dashboard
+1/3/24 3:28:51 PM :Debug: High Speed Paint: false
+1/3/24 3:28:51 PM :Info: 
+1/3/24 3:28:51 PM :Info: Com Thread created: COMM Thread17718.71434637563
+1/3/24 3:28:51 PM :Info: endModalBlock called, but Root Pane is not a ProgressPane.
+1/3/24 3:28:51 PM :Info: Comm Manager for Miata-99-NA Started, thread ID: COMM Thread17718.71434637563
+1/3/24 3:28:51 PM :Debug: Port not valid: Unable to open port: COM15
+Please check your Communications Settings. 
+1/3/24 3:28:51 PM :Info: Loading Font list.
+1/3/24 3:28:51 PM :Debug: Time to retreive font name list: 12 ms.
+1/3/24 3:28:51 PM :Info: 
+1/3/24 3:28:51 PM :Info: Initializing UI Components.
+1/3/24 3:28:51 PM :Debug: EventTrigger cltTempWarning Reset. expression: coolant < 200
+1/3/24 3:28:51 PM :Debug: EventTrigger syncLossDetect Reset after resetDelay (ms): 1000
+1/3/24 3:28:51 PM :Debug: Activating Event Trigger: cltTempWarning
+1/3/24 3:28:51 PM :Debug: Activating Event Trigger: syncLossDetect
+1/3/24 3:28:51 PM :Info: Ready
+1/3/24 3:28:51 PM :Info: Time to load uncached dash: 117.312096ms, file: Default.dash
+1/3/24 3:28:51 PM :Debug: High Speed Paint: true
+1/3/24 3:28:51 PM :Debug: !!! Opened Dash 1330
+1/3/24 3:28:51 PM :Info: Miata-99-NA Ready
+1/3/24 3:28:51 PM :Debug: Tuning View Files loaded in 0.213ms.
+1/3/24 3:28:51 PM :Debug: Deactivating Event Trigger: syncLossDetect
+1/3/24 3:28:51 PM :Debug: Activating Event Trigger: syncLossDetect
+1/3/24 3:28:51 PM :Info: EventTrigger: Miata-99-NA.syncLossDetect loaded and activated.
+1/3/24 3:28:51 PM :Debug: Activating Event Trigger: Stop Data log
+1/3/24 3:28:51 PM :Info: EventTrigger: Miata-99-NA.Stop Data log loaded and activated.
+1/3/24 3:28:51 PM :Debug: Deactivating Event Trigger: cltTempWarning
+1/3/24 3:28:51 PM :Debug: Activating Event Trigger: cltTempWarning
+1/3/24 3:28:51 PM :Info: EventTrigger: Miata-99-NA.cltTempWarning loaded and activated.
+1/3/24 3:28:51 PM :Debug: Activating Event Trigger: Data log
+1/3/24 3:28:51 PM :Info: EventTrigger: Miata-99-NA.Data log loaded and activated.
+1/3/24 3:28:51 PM :Info: EventTrigger: Miata-99-NA.TriggeredPage0 Refresh:  vssRefresh > 0  not active.
+1/3/24 3:29:03 PM :Debug: Received Instruction: Read Chunk 1, Page: 1
+1/3/24 3:29:03 PM :Info: Initiating read page 1 : 15:111
+1/3/24 3:29:03 PM :Debug: Received Instruction: Read Chunk 4, Page: 4
+1/3/24 3:29:03 PM :Info: Initiating read page 4 : 123:1
+1/3/24 3:29:29 PM :Debug: Received Instruction: Read Chunk 1, Page: 1
+1/3/24 3:29:29 PM :Info: Initiating read page 1 : 3:96
+1/3/24 3:29:29 PM :Debug: Received Instruction: Read Chunk 6, Page: 6
+1/3/24 3:29:29 PM :Info: Initiating read page 6 : 15:12
+1/3/24 3:29:38 PM :Debug: Received Instruction: Read Chunk 6, Page: 6
+1/3/24 3:29:38 PM :Info: Initiating read page 6 : 0:13
+1/3/24 3:29:42 PM :Debug: Received Instruction: Read Chunk 5, Page: 5
+1/3/24 3:29:42 PM :Info: Initiating read page 5 : 0:288
+1/3/24 3:29:46 PM :Debug: Received Instruction: Read Chunk 1, Page: 1
+1/3/24 3:29:46 PM :Info: Initiating read page 1 : 3:68
+1/3/24 3:29:46 PM :Debug: Received Instruction: Read Chunk 2, Page: 2
+1/3/24 3:29:46 PM :Info: Initiating read page 2 : 0:288
+1/3/24 3:31:44 PM :Debug: File Not Found for signature: C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA\backup
+1/3/24 3:31:44 PM :Debug: EcuConfigName for Save:Miata-99-NA
+1/3/24 3:31:44 PM :Info: file:backup.msq is not Monitored, cannot pause Monitoring of it.
+1/3/24 3:31:44 PM :Debug: File does not exist, creating new:
+C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA\backup.msq
+1/3/24 3:31:44 PM :Info: Time to save msq: 69.3296
+1/3/24 3:31:44 PM :Info: Miata-99-NA Tune Saved!
+1/3/24 3:31:44 PM :Info: file:backup.msq is not Monitored, cannot unpause Monitoring of it.
+1/3/24 3:34:08 PM :Debug: Received Instruction: Read Chunk 1, Page: 1
+1/3/24 3:34:08 PM :Info: Initiating read page 1 : 15:111
+1/3/24 3:34:08 PM :Debug: Received Instruction: Read Chunk 4, Page: 4
+1/3/24 3:34:08 PM :Info: Initiating read page 4 : 123:1
+1/3/24 3:34:40 PM :Info: dirtyData.size(): 0
+1/3/24 3:34:40 PM :Info: dirtyData.size(): 0
+1/3/24 3:34:40 PM :Debug: Flush lasted: 71ms.
+1/3/24 3:34:40 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:37:54 PM :Info: dirtyData.size(): 0
+1/3/24 3:37:54 PM :Info: dirtyData.size(): 0
+1/3/24 3:37:54 PM :Debug: Flush lasted: 70ms.
+1/3/24 3:37:54 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:37:55 PM :Info: dirtyData.size(): 0
+1/3/24 3:37:55 PM :Info: dirtyData.size(): 0
+1/3/24 3:37:55 PM :Debug: Flush lasted: 72ms.
+1/3/24 3:37:55 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:40:57 PM :Debug: Bintableview paint error.
+1/3/24 3:40:57 PM :Debug: Bintableview paint error.
+1/3/24 3:46:14 PM :Debug: Received Instruction: Read Chunk 1, Page: 1
+1/3/24 3:46:14 PM :Info: Initiating read page 1 : 3:1
+1/3/24 3:46:14 PM :Debug: Received Instruction: Read Chunk 4, Page: 4
+1/3/24 3:46:14 PM :Info: Initiating read page 4 : 19:4
+1/3/24 3:46:14 PM :Debug: Received Instruction: Read Chunk 9, Page: 9
+1/3/24 3:46:14 PM :Info: Initiating read page 9 : 166:13
+1/3/24 3:47:12 PM :Debug: Received Instruction: Read Chunk 1, Page: 1
+1/3/24 3:47:12 PM :Info: Initiating read page 1 : 3:1
+1/3/24 3:47:12 PM :Debug: Received Instruction: Read Chunk 4, Page: 4
+1/3/24 3:47:12 PM :Info: Initiating read page 4 : 19:4
+1/3/24 3:47:12 PM :Debug: Received Instruction: Read Chunk 9, Page: 9
+1/3/24 3:47:12 PM :Info: Initiating read page 9 : 166:13
+1/3/24 3:47:19 PM :Info: dirtyData.size(): 0
+1/3/24 3:47:19 PM :Info: dirtyData.size(): 0
+1/3/24 3:47:19 PM :Debug: Flush lasted: 70ms.
+1/3/24 3:47:19 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:51:42 PM :Debug: Received Instruction: Read Chunk 5, Page: 5
+1/3/24 3:51:42 PM :Info: Initiating read page 5 : 0:288
+1/3/24 3:52:57 PM :Debug: Bintableview paint error.
+Exception in thread "AWT-EventQueue-0" java.lang.ArrayIndexOutOfBoundsException: 1 >= 1
+	at java.util.Vector.elementAt(Vector.java:474)
+	at javax.swing.table.DefaultTableColumnModel.getColumn(DefaultTableColumnModel.java:294)
+	at javax.swing.plaf.basic.BasicTableHeaderUI.paint(BasicTableHeaderUI.java:648)
+	at javax.swing.plaf.ComponentUI.update(ComponentUI.java:161)
+	at javax.swing.JComponent.paintComponent(JComponent.java:780)
+	at javax.swing.JComponent.paint(JComponent.java:1056)
+	at javax.swing.JComponent.paintChildren(JComponent.java:889)
+	at javax.swing.JComponent.paint(JComponent.java:1065)
+	at javax.swing.JComponent.paintChildren(JComponent.java:889)
+	at javax.swing.JComponent.paint(JComponent.java:1065)
+	at javax.swing.JComponent.paintToOffscreen(JComponent.java:5210)
+	at javax.swing.RepaintManager$PaintManager.paintDoubleBuffered(RepaintManager.java:1579)
+	at javax.swing.RepaintManager$PaintManager.paint(RepaintManager.java:1502)
+	at javax.swing.RepaintManager.paint(RepaintManager.java:1272)
+	at javax.swing.JComponent._paintImmediately(JComponent.java:5158)
+	at javax.swing.JComponent.paintImmediately(JComponent.java:4969)
+	at javax.swing.RepaintManager$4.run(RepaintManager.java:831)
+	at javax.swing.RepaintManager$4.run(RepaintManager.java:814)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at javax.swing.RepaintManager.paintDirtyRegions(RepaintManager.java:814)
+	at javax.swing.RepaintManager.paintDirtyRegions(RepaintManager.java:789)
+	at javax.swing.RepaintManager.prePaintDirtyRegions(RepaintManager.java:738)
+	at javax.swing.RepaintManager.access$1200(RepaintManager.java:64)
+	at javax.swing.RepaintManager$ProcessingRunnable.run(RepaintManager.java:1732)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+1/3/24 3:54:45 PM :Info: dirtyData.size(): 0
+1/3/24 3:54:45 PM :Info: dirtyData.size(): 0
+1/3/24 3:54:45 PM :Debug: Flush lasted: 71ms.
+1/3/24 3:54:45 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:56:12 PM :Debug: Received Instruction: Read Chunk 1, Page: 1
+1/3/24 3:56:12 PM :Info: Initiating read page 1 : 61:62
+1/3/24 3:56:12 PM :Debug: Received Instruction: Read Chunk 6, Page: 6
+1/3/24 3:56:12 PM :Info: Initiating read page 6 : 47:73
+1/3/24 3:56:12 PM :Debug: Received Instruction: Read Chunk 9, Page: 9
+1/3/24 3:56:12 PM :Info: Initiating read page 9 : 153:2
+1/3/24 3:57:16 PM :Debug: Received Instruction: Read Chunk 6, Page: 6
+1/3/24 3:57:16 PM :Info: Initiating read page 6 : 84:20
+1/3/24 3:57:25 PM :Info: dirtyData.size(): 0
+1/3/24 3:57:25 PM :Info: dirtyData.size(): 0
+1/3/24 3:57:25 PM :Debug: Flush lasted: 71ms.
+1/3/24 3:57:25 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:57:27 PM :Debug: Received Instruction: Read Chunk 1, Page: 1
+1/3/24 3:57:27 PM :Info: Initiating read page 1 : 91:34
+1/3/24 3:57:27 PM :Debug: Received Instruction: Read Chunk 4, Page: 4
+1/3/24 3:57:27 PM :Info: Initiating read page 4 : 108:12
+1/3/24 3:57:27 PM :Debug: Received Instruction: Read Chunk 6, Page: 6
+1/3/24 3:57:27 PM :Info: Initiating read page 6 : 64:40
+1/3/24 3:57:27 PM :Debug: Received Instruction: Read Chunk 9, Page: 9
+1/3/24 3:57:27 PM :Info: Initiating read page 9 : 155:1
+1/3/24 3:57:42 PM :Info: dirtyData.size(): 0
+1/3/24 3:57:42 PM :Info: dirtyData.size(): 0
+1/3/24 3:57:42 PM :Debug: Flush lasted: 70ms.
+1/3/24 3:57:42 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:57:57 PM :Debug: Received Instruction: Read Chunk 1, Page: 1
+1/3/24 3:57:57 PM :Info: Initiating read page 1 : 91:34
+1/3/24 3:57:57 PM :Debug: Received Instruction: Read Chunk 4, Page: 4
+1/3/24 3:57:57 PM :Info: Initiating read page 4 : 108:12
+1/3/24 3:57:57 PM :Debug: Received Instruction: Read Chunk 6, Page: 6
+1/3/24 3:57:57 PM :Info: Initiating read page 6 : 64:40
+1/3/24 3:57:57 PM :Debug: Received Instruction: Read Chunk 9, Page: 9
+1/3/24 3:57:57 PM :Info: Initiating read page 9 : 155:1
+1/3/24 3:58:22 PM :Info: dirtyData.size(): 0
+1/3/24 3:58:22 PM :Info: dirtyData.size(): 0
+1/3/24 3:58:22 PM :Debug: Flush lasted: 71ms.
+1/3/24 3:58:22 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:58:24 PM :Info: dirtyData.size(): 0
+1/3/24 3:58:24 PM :Info: dirtyData.size(): 0
+1/3/24 3:58:24 PM :Debug: Flush lasted: 71ms.
+1/3/24 3:58:24 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:58:29 PM :Info: dirtyData.size(): 0
+1/3/24 3:58:29 PM :Info: dirtyData.size(): 0
+1/3/24 3:58:29 PM :Debug: Flush lasted: 70ms.
+1/3/24 3:58:29 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:58:31 PM :Info: dirtyData.size(): 0
+1/3/24 3:58:31 PM :Info: dirtyData.size(): 0
+1/3/24 3:58:31 PM :Debug: Flush lasted: 72ms.
+1/3/24 3:58:31 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:58:32 PM :Info: dirtyData.size(): 0
+1/3/24 3:58:32 PM :Info: dirtyData.size(): 0
+1/3/24 3:58:32 PM :Debug: Flush lasted: 70ms.
+1/3/24 3:58:32 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:58:32 PM :Info: dirtyData.size(): 0
+1/3/24 3:58:32 PM :Info: dirtyData.size(): 0
+1/3/24 3:58:32 PM :Debug: Flush lasted: 83ms.
+1/3/24 3:58:32 PM :Debug: Skip Burn, last write page: -2
+1/3/24 3:58:35 PM :Info: dirtyData.size(): 0
+1/3/24 3:58:35 PM :Info: dirtyData.size(): 0
+1/3/24 3:58:35 PM :Debug: Flush lasted: 77ms.
+1/3/24 3:58:35 PM :Debug: Skip Burn, last write page: -2
+Exception in thread "AWT-EventQueue-0" java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:901)
+	at java.util.ArrayList$Itr.next(ArrayList.java:851)
+	at bo.A.b(Unknown Source)
+	at bo.A.a(Unknown Source)
+	at bo.B.focusLost(Unknown Source)
+	at java.awt.AWTEventMulticaster.focusLost(AWTEventMulticaster.java:230)
+	at java.awt.AWTEventMulticaster.focusLost(AWTEventMulticaster.java:229)
+	at java.awt.Component.processFocusEvent(Component.java:6427)
+	at java.awt.Component.processEvent(Component.java:6291)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4891)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4713)
+	at java.awt.KeyboardFocusManager.redispatchEvent(KeyboardFocusManager.java:1954)
+	at java.awt.DefaultKeyboardFocusManager.typeAheadAssertions(DefaultKeyboardFocusManager.java:995)
+	at java.awt.DefaultKeyboardFocusManager.dispatchEvent(DefaultKeyboardFocusManager.java:661)
+	at java.awt.Component.dispatchEventImpl(Component.java:4762)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4713)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+1/3/24 4:00:15 PM :Info: dirtyData.size(): 0
+1/3/24 4:00:15 PM :Info: dirtyData.size(): 0
+1/3/24 4:00:15 PM :Debug: Flush lasted: 76ms.
+1/3/24 4:00:15 PM :Debug: Skip Burn, last write page: -2
+1/3/24 4:00:17 PM :Info: Time to save msq: 45.8463
+1/3/24 4:00:17 PM :Info: closeApp Called
+1/3/24 4:00:17 PM :Debug: TuneLog Editor set text
+1/3/24 4:00:17 PM :Debug: Fill Constants: 6
+1/3/24 4:00:17 PM :Debug: File does not exist, creating new:
+C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA\restorePoints\Miata-99-NA_2024-01-03_16.00.17.msq
+1/3/24 4:00:17 PM :Info: Time to save msq: 11.3595
+1/3/24 4:00:17 PM :Info: Miata-99-NA Restore point saved
+1/3/24 4:00:17 PM :Info: Miata-99-NA Restore point saved to: Miata-99-NA_2024-01-03_16.00.17.msq
+1/3/24 4:00:17 PM :Info: Time to save msq: 6.3078
+1/3/24 4:00:17 PM :Debug: goOffline Starting, Time:0
+1/3/24 4:00:17 PM :Info: Deactivated Turbo Baud, goOffline
+1/3/24 4:00:17 PM :Debug: goOffline about to stopProcessing, Time:1
+1/3/24 4:00:17 PM :Debug: goOffline closed port, Time:1
+1/3/24 4:00:17 PM :Info: Miata-99-NA ComThread stopped COMM Thread17718.71434637563
+1/3/24 4:00:17 PM :Debug: goOffline comm thread stopped, Time:120
+1/3/24 4:00:17 PM :Debug: No Remaining Queue Write instructions
+1/3/24 4:00:17 PM :Debug: removing Configuration: Miata-99-NA
+1/3/24 4:00:17 PM :Debug: ############################################# Save Project Backup ##########################################
+1/3/24 4:00:17 PM :Info: Finalizing Sensors
+Saved user properties successfully
+Starting on GARAGEPC
+TunerStudio 3.1.08 started on Wed Jan 03 20:40:26 EST 2024
+JRE 1.8.0_66, Windows 10 10.0, x86
+java.library.path=./lib
+TunerStudioMS.jar
+Look:Metal, ClassName:'javax.swing.plaf.metal.MetalLookAndFeel'
+Look:Nimbus, ClassName:'javax.swing.plaf.nimbus.NimbusLookAndFeel'
+Look:CDE/Motif, ClassName:'com.sun.java.swing.plaf.motif.MotifLookAndFeel'
+Look:Windows, ClassName:'com.sun.java.swing.plaf.windows.WindowsLookAndFeel'
+Look:Windows Classic, ClassName:'com.sun.java.swing.plaf.windows.WindowsClassicLookAndFeel'
+Look:Night Shade, ClassName:'de.muntjak.tinylookandfeel.TinyLookAndFeel'
+Setting Look & Feel to:javax.swing.plaf.metal.MetalLookAndFeel
+ScrollBar.width
+1/3/24 8:40:26 PM :Debug: no update:defaultFont
+1/3/24 8:40:27 PM :Info: Initializing File Dialogs.
+1/3/24 8:40:27 PM :Debug: hid: 1044.5553
+1/3/24 8:40:28 PM :Info: Updating ai & t
+1/3/24 8:40:28 PM :Info: Loading Language Content.
+1/3/24 8:40:30 PM :Debug: Command Non-VolatileBytes for F resolved to: x46                                                                   F
+1/3/24 8:40:30 PM :Debug: Command Non-VolatileBytes for I resolved to: x49                                                                   I
+1/3/24 8:40:30 PM :Debug: Command Non-VolatileBytes for f resolved to: x66                                                                   f
+1/3/24 8:40:30 PM :Info: Initializing Plugin Services.
+1/3/24 8:40:30 PM :Info: Loading Plugins.
+1/3/24 8:40:30 PM :Info: Initializing Help.
+1/3/24 8:40:30 PM :Info: Initializing Edition Features.
+1/3/24 8:40:30 PM :Info: Initializing App Events.
+1/3/24 8:40:30 PM :Debug: App Name:TunerStudio, appEdition:MS Ultra
+1/3/24 8:40:30 PM :Info: Initializing Log Viewer Components.
+1/3/24 8:40:30 PM :Info: Initializing User Interface
+1/3/24 8:40:30 PM :Warning: Unable to set Main cluster for title:
+1/3/24 8:40:32 PM :Info: Opening Last Project....
+1/3/24 8:40:32 PM :Info: Loading Font list.
+1/3/24 8:40:32 PM :Debug: Time to retreive font name list: 24 ms.
+1/3/24 8:40:32 PM :Info: 
+1/3/24 8:40:32 PM :Info: Initializing UI Components.
+1/3/24 8:40:32 PM :Debug: EventTrigger cltTempWarning Reset. expression: coolant < 200
+1/3/24 8:40:32 PM :Debug: EventTrigger syncLossDetect Reset after resetDelay (ms): 1000
+1/3/24 8:40:32 PM :Info: Ready
+1/3/24 8:40:32 PM :Info: Opening Project ...
+1/3/24 8:40:32 PM :Debug: Opening project: C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA
+1/3/24 8:40:32 PM :Debug: EventTrigger cltTempWarning Reset. expression: coolant < 200
+1/3/24 8:40:32 PM :Debug: EventTrigger syncLossDetect Reset after resetDelay (ms): 1000
+1/3/24 8:40:32 PM :Debug: EventTrigger Data log Reset. expression: AppEvent.dataLoggingActive == 0
+1/3/24 8:40:32 PM :Debug: EventTrigger cltTempWarning Reset. expression: coolant < 200
+1/3/24 8:40:32 PM :Debug: EventTrigger syncLossDetect Reset after resetDelay (ms): 1000
+1/3/24 8:40:32 PM :Debug: EventTrigger Stop Data log Reset. expression: AppEvent.dataLoggingActive != 0
+1/3/24 8:40:32 PM :Debug: EventTrigger cltTempWarning Reset. expression: coolant < 200
+1/3/24 8:40:32 PM :Debug: EventTrigger syncLossDetect Reset after resetDelay (ms): 1000
+1/3/24 8:40:32 PM :Debug: Reading translation file as plain text
+1/3/24 8:40:32 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 8:40:32 PM :Debug: Filtered ConfigurationOptionGroup in 11ms.
+1/3/24 8:40:32 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 8:40:32 PM :Info: Read file canPcVariables.ini: 3.2466ms
+1/3/24 8:40:32 PM :Info: Filtered ini: 0.0428ms
+1/3/24 8:40:32 PM :Info: No iniVersion defined
+1/3/24 8:40:32 PM :Info: Loading Trigger Wheels
+1/3/24 8:40:32 PM :Info: Loaded All known ini sections
+1/3/24 8:40:32 PM :Info: Parsed and validated ini "canPcVariables.ini" in : 20ms.
+1/3/24 8:40:32 PM :Info: Read file mainController.ini: 4.4785ms
+1/3/24 8:40:32 PM :Info: Filtered ini: 4.9745ms
+1/3/24 8:40:32 PM :Info: No iniVersion defined
+1/3/24 8:40:32 PM :Debug: ini signature: speeduino 202310
+1/3/24 8:40:32 PM :Info: Loading Trigger Wheels
+1/3/24 8:40:32 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+1/3/24 8:40:33 PM :Info: Loaded All known ini sections
+1/3/24 8:40:33 PM :Info: Parsed and validated ini "mainController.ini" in : 120ms.
+1/3/24 8:40:33 PM :Info: Supported iniSpecVersion=3.71
+1/3/24 8:40:33 PM :Info: Read file speeduinoSupplement.ecu: 14.0749ms
+1/3/24 8:40:33 PM :Info: Filtered ini: 0.0379ms
+1/3/24 8:40:33 PM :Info: No iniVersion defined
+1/3/24 8:40:33 PM :Info: Loading Trigger Wheels
+1/3/24 8:40:33 PM :Info: Loading Depricated ini section [UserDefined], use [UiDialogs]
+1/3/24 8:40:33 PM :Info: Validate Expressions disabled.
+1/3/24 8:40:33 PM :Info: Loaded All known ini sections
+1/3/24 8:40:33 PM :Info: Parsed ini "speeduinoSupplement.ecu" in : 21ms.
+1/3/24 8:40:33 PM :Info: Not Loading default Tools because they were already loaded from the project ini(s)
+1/3/24 8:40:33 PM :Info: Time to load primary config: 255.076ms. used cached config: false
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+1/3/24 8:40:33 PM :Debug: set baud to 115200
+1/3/24 8:40:33 PM :Debug: Adding Configuration: Miata-99-NA
+1/3/24 8:40:33 PM :Debug: controllerOnline = 0.0
+1/3/24 8:40:33 PM :Debug: Activating Event Trigger: TriggeredPage0 Refresh:  vssRefresh > 0 
+1/3/24 8:40:33 PM :Debug: Fill Constants: 9
+1/3/24 8:40:33 PM :Info: Tune opened, 3380 bytes updated. File:C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA\CurrentTune.msq
+1/3/24 8:40:33 PM :Info: Tune opened, 3380 bytes updated. File:C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA\CurrentTune.msq
+1/3/24 8:40:33 PM :Info: dirtyData.size(): 0
+1/3/24 8:40:33 PM :Info: dirtyData.size(): 0
+1/3/24 8:40:33 PM :Debug: Flush lasted: 70ms.
+1/3/24 8:40:33 PM :Info: dirtyData.size(): 0
+1/3/24 8:40:33 PM :Info: dirtyData.size(): 0
+1/3/24 8:40:33 PM :Debug: Flush lasted: 80ms.
+1/3/24 8:40:33 PM :Debug: Skip Burn, last write page: -2
+1/3/24 8:40:33 PM :Info: !!! Loaded config in 563
+1/3/24 8:40:33 PM :Info: !!! Activated Project 711
+1/3/24 8:40:33 PM :Info: Opening Gauge Cluster..
+1/3/24 8:40:33 PM :Info: Time to load uncached dash: 90.7174ms, file: dashboard.dash
+1/3/24 8:40:33 PM :Debug: Deactivated fast paint Main Dashboard
+1/3/24 8:40:33 PM :Debug: High Speed Paint: false
+1/3/24 8:40:33 PM :Info: 
+1/3/24 8:40:33 PM :Info: Com Thread created: COMM Thread12811.487540991551
+1/3/24 8:40:33 PM :Info: endModalBlock called, but Root Pane is not a ProgressPane.
+1/3/24 8:40:33 PM :Info: Comm Manager for Miata-99-NA Started, thread ID: COMM Thread12811.487540991551
+1/3/24 8:40:33 PM :Debug: Port not valid: Unable to open port: COM15
+Please check your Communications Settings. 
+1/3/24 8:40:33 PM :Debug: Font for 'Mark Pro Normal' not found.
+1/3/24 8:40:33 PM :Info: Time to load uncached dash: 139.2905ms, file: Default.dash
+1/3/24 8:40:33 PM :Debug: High Speed Paint: true
+1/3/24 8:40:33 PM :Debug: !!! Opened Dash 1152
+1/3/24 8:40:33 PM :Info: Miata-99-NA Ready
+1/3/24 8:40:33 PM :Debug: Tuning View Files loaded in 0.1882ms.
+1/3/24 8:40:34 PM :Debug: EventTrigger cltTempWarning Reset. expression: coolant < 200
+1/3/24 8:40:34 PM :Debug: EventTrigger syncLossDetect Reset after resetDelay (ms): 1000
+1/3/24 8:40:34 PM :Debug: Activating Event Trigger: cltTempWarning
+1/3/24 8:40:34 PM :Debug: Activating Event Trigger: syncLossDetect
+1/3/24 8:40:34 PM :Debug: Deactivating Event Trigger: syncLossDetect
+1/3/24 8:40:34 PM :Debug: Activating Event Trigger: syncLossDetect
+1/3/24 8:40:34 PM :Info: EventTrigger: Miata-99-NA.syncLossDetect loaded and activated.
+1/3/24 8:40:34 PM :Debug: Activating Event Trigger: Stop Data log
+1/3/24 8:40:34 PM :Info: EventTrigger: Miata-99-NA.Stop Data log loaded and activated.
+1/3/24 8:40:34 PM :Debug: Deactivating Event Trigger: cltTempWarning
+1/3/24 8:40:34 PM :Debug: Activating Event Trigger: cltTempWarning
+1/3/24 8:40:34 PM :Info: EventTrigger: Miata-99-NA.cltTempWarning loaded and activated.
+1/3/24 8:40:34 PM :Debug: Activating Event Trigger: Data log
+1/3/24 8:40:34 PM :Info: EventTrigger: Miata-99-NA.Data log loaded and activated.
+1/3/24 8:40:34 PM :Info: EventTrigger: Miata-99-NA.TriggeredPage0 Refresh:  vssRefresh > 0  not active.
+1/3/24 8:40:49 PM :Debug: Received Instruction: Read Chunk 5, Page: 5
+1/3/24 8:40:49 PM :Info: Initiating read page 5 : 0:288
+1/3/24 10:35:14 PM :Info: Tune opened, 0 bytes updated. File:C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA\CurrentTune.msq
+1/3/24 10:35:14 PM :Info: Tune opened, 0 bytes updated. File:C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA\CurrentTune.msq
+1/3/24 10:35:14 PM :Info: dirtyData.size(): 0
+1/3/24 10:35:14 PM :Info: dirtyData.size(): 0
+1/3/24 10:35:14 PM :Debug: Flush lasted: 70ms.
+1/3/24 10:35:14 PM :Info: dirtyData.size(): 0
+1/3/24 10:35:14 PM :Info: dirtyData.size(): 0
+1/3/24 10:35:14 PM :Debug: Flush lasted: 71ms.
+1/3/24 10:35:14 PM :Debug: Skip Burn, last write page: -2
+1/4/24 9:44:27 AM :Info: Tune opened, 259 bytes updated. File:C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA\CurrentTune.msq
+1/4/24 9:44:27 AM :Info: Tune opened, 259 bytes updated. File:C:\Users\alejo\OneDrive\TunerStudioFiles\Miata-99-NA\CurrentTune.msq
+1/4/24 9:44:27 AM :Info: dirtyData.size(): 0
+1/4/24 9:44:27 AM :Info: dirtyData.size(): 0
+1/4/24 9:44:27 AM :Debug: Flush lasted: 70ms.
+1/4/24 9:44:27 AM :Info: dirtyData.size(): 0
+1/4/24 9:44:27 AM :Info: dirtyData.size(): 0
+1/4/24 9:44:27 AM :Debug: Flush lasted: 70ms.
+1/4/24 9:44:27 AM :Debug: Skip Burn, last write page: -2
+1/4/24 9:44:29 AM :Info: dirtyData.size(): 0
+1/4/24 9:44:29 AM :Info: dirtyData.size(): 0
+1/4/24 9:44:29 AM :Debug: Flush lasted: 70ms.
+1/4/24 9:44:29 AM :Debug: Skip Burn, last write page: -2
+1/4/24 9:46:24 AM :Debug: Received Instruction: Read Chunk 5, Page: 5
+1/4/24 9:46:24 AM :Info: Initiating read page 5 : 0:288
+1/4/24 9:47:46 AM :Debug: Received Instruction: Read Chunk 1, Page: 1
+1/4/24 9:47:46 AM :Info: Initiating read page 1 : 15:111
+1/4/24 9:47:46 AM :Debug: Received Instruction: Read Chunk 4, Page: 4
+1/4/24 9:47:46 AM :Info: Initiating read page 4 : 123:1
+1/4/24 9:49:36 AM :Info: dirtyData.size(): 0
+1/4/24 9:49:37 AM :Info: dirtyData.size(): 0
+1/4/24 9:49:37 AM :Debug: Flush lasted: 78ms.
+1/4/24 9:49:37 AM :Debug: Skip Burn, last write page: -2
+1/4/24 9:49:38 AM :Info: dirtyData.size(): 0
+1/4/24 9:49:38 AM :Info: dirtyData.size(): 0
+1/4/24 9:49:38 AM :Debug: Flush lasted: 79ms.
+1/4/24 9:49:38 AM :Debug: Skip Burn, last write page: -2

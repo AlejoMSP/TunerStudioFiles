@@ -1,7 +1,7 @@
 #Project Attributes.
 #TunerStudio by EFI Analytics, Inc
-#Last Saved on: Fri Dec 29 13:10:38 EST 2023
-#Fri Dec 29 13:10:38 EST 2023
+#Last Saved on: Wed Jan 03 15:12:23 EST 2024
+#Wed Jan 03 15:12:23 EST 2024
 sdcard_datalogSD\ Card\ Datalogging_Y=0
 sdcard_datalogSD\ Card\ Datalogging_X=465
 egtEGT\ /\ Thermocouple\ Inputs_width=649
@@ -183,7 +183,7 @@ pwmidle_cl_initialvaluesClosed-Loop\ Idle\ Initial\ Values_height=435
 idleAdvanceIdle\ Advance\ Settings_height=517
 projectDescription=MS3Pro for Miata
 inj_timing_tblInjector\ Timing_height=400
-combinedidleIdle\ Control_height=419
+combinedidleIdle\ Control_height=542
 CommSettingMSCommDriver.FTDI\ -\ D2XX\ driverBaud\ Rate=115200
 iactestOutput\ Test\ Mode\ -\ Idle\ Valve_width=606
 ms3_port_edit_wrap2Programmable\ On/Off\ Outputs\ 2_width=497
@@ -200,7 +200,7 @@ knockSettings2Knock\ Window\ Settings_width=579
 flash_unlockUn/Lock\ Calibrations_width=388
 CommSettingCom\ Port=COM1
 pwmidle_crank_dutyorsteps_curveIdle\ Cranking\ Duty/Steps_width=860
-projectName=MS3Pro_Miata
+projectName=Miata-97-Turbo
 etcElectronic\ Throttle\ Control_width=933
 EAEBAWCcurveEAE\ Adhere-to-walls\ Coefficient_width=820
 TrimTablePanel_inj_trimgTbl_lambdaChannel=afr1
@@ -248,8 +248,8 @@ dashbcastDash\ Broadcasting_width=388
 stagedCombinedStaged\ Injection_height=718
 maxafrAFR\ Safety\ System_Y=310
 maxafrAFR\ Safety\ System_X=653
-combinedidleIdle\ Control_Y=373
-combinedidleIdle\ Control_X=807
+combinedidleIdle\ Control_Y=317
+combinedidleIdle\ Control_X=433
 iopinlistFeature\ List\ Showing\ I/O\ pins_height=1050
 boostctlSettings2Boost\ Control\ Settings\ 2_width=418
 refTable_000_txtTemp3=210.2
@@ -275,7 +275,7 @@ EAEBSOCcurveEAE\ Sucked-from-walls\ Coefficient_X=371
 TrimTablePanel_inj_trim2Tbl_egoCorChannel=egocor1
 CommSettingDVARGAS-PCCommDriver.controllerInterfaceId=FTDI - D2XX driver
 refTable_000_txtBiasResistor=2490
-Triggers.ActiveTriggers=syncLossDetect|cltTempWarning|playRacecarWOT|
+Triggers.ActiveTriggers=syncLossDetect|cltTempWarning|
 cl_idle_timing_curveIdle\ RPM\ Timing\ Correction\ Curve_height=390
 pwmidle_target_curveClosed-Loop\ Idle\ Target\ RPMs_height=390
 egoControlAFR\ /\ EGO\ Control_height=570
@@ -337,7 +337,7 @@ smallpwInjector\ Small\ Pulsewidths_height=647
 egtEGT\ /\ Thermocouple\ Inputs_Y=85
 egtEGT\ /\ Thermocouple\ Inputs_X=358
 VeAnalyzeConsole.idleve1Tbl_selectedDash=Standard
-combinedidleIdle\ Control_width=654
+combinedidleIdle\ Control_width=795
 dashbcastDash\ Broadcasting_height=262
 ltt_Table1TblLong\ Term\ Trim\ Table\ 1_Y=240
 ltt_Table1TblLong\ Term\ Trim\ Table\ 1_X=647
