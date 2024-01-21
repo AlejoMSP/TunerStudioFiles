@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-<bibliography author="TunerStudio MS Ultra 3.1.08 - EFI Analytics, Inc." tuneComment="" writeDate="Fri Jan 19 17:28:32 EST 2024"/>
+<bibliography author="TunerStudio MS Ultra 3.1.08 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: Project close - &lt;br&gt;" writeDate="Fri Jan 19 10:18:46 EST 2024"/>
 <versionInfo fileFormat="5.0" firmwareInfo="Speeduino+2023.10" nPages="15" signature="speeduino 202310"/>
 <page>
 <pcVariable name="tsCanId">"0"</pcVariable>
@@ -437,14 +437,15 @@
          100.0 
          100.0 
       </pcVariable>
-<pcVariable name="prgm_out_selection">"1"</pcVariable>
+<pcVariable name="prgm_out_selection">"2"</pcVariable>
 <pcVariable digits="0" name="fuelLoadMax">255.0</pcVariable>
 <pcVariable digits="0" name="ignLoadMax">255.0</pcVariable>
 <pcVariable digits="0" name="fuel2LoadMax">255.0</pcVariable>
 <pcVariable digits="0" name="ign2LoadMax">255.0</pcVariable>
-<pcVariable name="AUXin00Alias">Aux0</pcVariable>
+<pcVariable name="AUXin00Alias">AC_Control</pcVariable>
 <pcVariable name="prgm_out00Alias">AC_Fan</pcVariable>
 <pcVariable name="prgm_out01Alias">AC_Clutch</pcVariable>
+<pcVariable name="prgm_out02Alias">Alternator Disable</pcVariable>
 <pcVariable name="tsSpeedSource">"GPS Speed"</pcVariable>
 <pcVariable digits="0" name="tsPrimaryInjectorSize">0.0</pcVariable>
 <pcVariable name="tsInjSizeConstant">"cc/min"</pcVariable>
@@ -542,11 +543,11 @@
 <constant digits="0" name="oddfire4" units="deg">0.0</constant>
 <constant name="idleUpPin">"37"</constant>
 <constant name="idleUpPolarity">"Normal"</constant>
-<constant name="idleUpEnabled">"Off"</constant>
-<constant digits="0" name="idleUpAdder" units="% / Steps">20.0</constant>
+<constant name="idleUpEnabled">"On"</constant>
+<constant digits="0" name="idleUpAdder" units="% / Steps">35.0</constant>
 <constant digits="0" name="aeTaperMin" units="RPM">1500.0</constant>
 <constant digits="0" name="aeTaperMax" units="RPM">2500.0</constant>
-<constant digits="0" name="iacCLminValue" units="% / Steps">20.0</constant>
+<constant digits="0" name="iacCLminValue" units="% / Steps">14.0</constant>
 <constant digits="0" name="iacCLmaxValue" units="% / Steps">97.0</constant>
 <constant digits="0" name="boostMinDuty" units="%">12.0</constant>
 <constant digits="0" name="baroMin" units="kpa">10.0</constant>
@@ -836,7 +837,7 @@
 <constant name="ignBypassHiLo">"HIGH"</constant>
 <constant digits="0" name="ADCFILTER_TPS" units="%">0.0</constant>
 <constant digits="0" name="ADCFILTER_CLT" units="%">0.0</constant>
-<constant digits="0" name="ADCFILTER_IAT" units="%">0.0</constant>
+<constant digits="0" name="ADCFILTER_IAT" units="%">180.0</constant>
 <constant digits="0" name="ADCFILTER_O2" units="%">0.0</constant>
 <constant digits="0" name="ADCFILTER_BAT" units="%">0.0</constant>
 <constant digits="0" name="ADCFILTER_MAP" units="%">0.0</constant>
@@ -996,7 +997,7 @@
 <constant name="egoType">"Wide Band"</constant>
 <constant name="boostEnabled">"Off"</constant>
 <constant name="vvtEnabled">"Off"</constant>
-<constant name="engineProtectType">"Spark Only"</constant>
+<constant name="engineProtectType">"Both"</constant>
 <constant digits="0" name="egoKP" units="%">100.0</constant>
 <constant digits="0" name="egoKI" units="%">20.0</constant>
 <constant digits="0" name="egoKD" units="%">0.0</constant>
@@ -1070,7 +1071,7 @@
 <constant digits="0" name="lnchRetard" units="deg">-15.0</constant>
 <constant digits="0" name="lnchHardLim" units="rpm">4000.0</constant>
 <constant digits="0" name="lnchFuelAdd" units="%">15.0</constant>
-<constant digits="2" name="idleKP" units="%">0.09375</constant>
+<constant digits="2" name="idleKP" units="%">0.0625</constant>
 <constant digits="2" name="idleKI" units="%">0.125</constant>
 <constant digits="3" name="idleKD" units="%">0.0</constant>
 <constant digits="0" name="boostLimit" units="kPa">120.0</constant>
@@ -1090,12 +1091,12 @@
          1150.0 
          1100.0 
          1050.0 
-         1020.0 
-         1020.0 
-         950.0 
-         950.0 
-         950.0 
-         950.0 
+         1000.0 
+         1000.0 
+         930.0 
+         930.0 
+         930.0 
+         930.0 
       </constant>
 <constant cols="1" digits="0" name="iacOLStepVal" rows="10" units="Steps">
          0.0 
@@ -1126,7 +1127,7 @@
          46.386 
          55.386 
          69.786 
-         96.786 
+         98.586 
          120.186 
          170.586 
          190.386 
@@ -2123,14 +2124,14 @@
 <page number="12" size="128">
 <constant name="outputInverted0">"Active high"</constant>
 <constant name="outputInverted1">"Active high"</constant>
-<constant name="outputInverted2">"Active low"</constant>
+<constant name="outputInverted2">"Active high"</constant>
 <constant name="outputInverted3">"Active low"</constant>
 <constant name="outputInverted4">"Active high"</constant>
 <constant name="outputInverted5">"Active high"</constant>
 <constant name="outputInverted6">"Active low"</constant>
 <constant name="outputInverted7">"Active high"</constant>
 <constant name="kindOfLimiting0">"Minimum"</constant>
-<constant name="kindOfLimiting1">"Minimum"</constant>
+<constant name="kindOfLimiting1">"Maximum"</constant>
 <constant name="kindOfLimiting2">"Maximum"</constant>
 <constant name="kindOfLimiting3">"Maximum"</constant>
 <constant name="kindOfLimiting4">"Minimum"</constant>
@@ -2140,7 +2141,7 @@
 <constant cols="1" digits="0" name="outputPin" rows="8">
          38.0 
          39.0 
-         0.0 
+         52.0 
          0.0 
          0.0 
          0.0 
@@ -2149,16 +2150,16 @@
       </constant>
 <constant name="outputPin0">"38"</constant>
 <constant name="outputPin1">"39"</constant>
-<constant name="outputPin2">"Disabled"</constant>
+<constant name="outputPin2">"52"</constant>
 <constant name="outputPin3">"Disabled"</constant>
 <constant name="outputPin4">"Disabled"</constant>
 <constant name="outputPin5">"Disabled"</constant>
 <constant name="outputPin6">"Disabled"</constant>
 <constant name="outputPin7">"Disabled"</constant>
 <constant cols="1" digits="1" name="outputDelay" rows="8" units="S">
-         8.0 
+         0.0 
          1.0 
-         8.1 
+         0.0 
          8.1 
          8.1 
          8.1 
@@ -2167,7 +2168,7 @@
       </constant>
 <constant cols="1" digits="0" name="firstDataIn" rows="8">
          7.0 
-         82.0 
+         42.0 
          84.0 
          84.0 
          84.0 
@@ -2176,7 +2177,7 @@
          85.0 
       </constant>
 <constant name="firstDataIn0">"coolant"</constant>
-<constant name="firstDataIn1">"Pulsewidth 4"</constant>
+<constant name="firstDataIn1">"Aux in 0"</constant>
 <constant name="firstDataIn2">"status bits 3"</constant>
 <constant name="firstDataIn3">"status bits 3"</constant>
 <constant name="firstDataIn4">"status bits 3"</constant>
@@ -2204,7 +2205,7 @@
 <constant cols="1" digits="1" name="outputTimeLimit" rows="8" units="S">
          5.0 
          2.0 
-         0.0 
+         16.0 
          0.0 
          0.0 
          0.0 
@@ -2223,7 +2224,7 @@
       </constant>
 <constant cols="1" digits="0" name="firstTarget" rows="8">
          195.0 
-         23130.0 
+         0.0 
          23387.0 
          23387.0 
          23643.0 
@@ -2249,7 +2250,7 @@
 <constant name="bitwise1">"Disabled"</constant>
 <constant name="firstCompType2">"== (equal)"</constant>
 <constant name="secondCompType2">"== (equal)"</constant>
-<constant name="bitwise2">"AND"</constant>
+<constant name="bitwise2">"Disabled"</constant>
 <constant name="firstCompType3">"== (equal)"</constant>
 <constant name="secondCompType3">"== (equal)"</constant>
 <constant name="bitwise3">"AND"</constant>
@@ -2406,15 +2407,15 @@
 <constant digits="0" name="boostDCWhenDisabled" units="%">0.0</constant>
 <constant digits="0" name="boostControlEnableThreshold" units="kpa">255.0</constant>
 <constant name="airConEnable">"Off"</constant>
-<constant name="airConCompPol">"Normal"</constant>
+<constant name="airConCompPol">"Inverted"</constant>
 <constant name="airConReqPol">"Normal"</constant>
 <constant name="airConTurnsFanOn">"Yes"</constant>
-<constant name="airConFanEnabled">"Enabled"</constant>
+<constant name="airConFanEnabled">"Disabled"</constant>
 <constant name="airConFanPol">"Inverted"</constant>
 <constant name="airConUnused1">"3"</constant>
 <constant name="airConCompPin">"16"</constant>
 <constant name="airConUnused2">"3"</constant>
-<constant name="airConReqPin">"38"</constant>
+<constant name="airConReqPin">"A9"</constant>
 <constant name="airConUnused3">"3"</constant>
 <constant digits="1" name="airConTPSCut" units="%">80.0</constant>
 <constant digits="0" name="airConMinRPM" units="RPM">600.0</constant>
