@@ -1,7 +1,7 @@
 #Project Attributes.
 #TunerStudio by EFI Analytics, Inc
-#Last Saved on: Wed Jan 03 15:12:23 EST 2024
-#Wed Jan 03 15:12:23 EST 2024
+#Last Saved on: Wed Jan 03 15:13:02 EST 2024
+#Wed Jan 03 15:13:02 EST 2024
 sdcard_datalogSD\ Card\ Datalogging_Y=0
 sdcard_datalogSD\ Card\ Datalogging_X=465
 egtEGT\ /\ Thermocouple\ Inputs_width=649
@@ -580,14 +580,14 @@ fuelpumpFuel\ Pump\ and\ Pressure\ Control_Y=25
 fuelpumpFuel\ Pump\ and\ Pressure\ Control_X=283
 ms3_port_edit_wrap2Programmable\ On/Off\ Outputs\ 2_height=360
 boostctlSettings2Boost\ Control\ Settings\ 2_height=642
-combinedCLidleClosed-Loop\ Idle\ Settings_height=574
 can_outpc_bcast_4CAN\ Realtime\ Data\ Broadcasting\ 4_Y=212
-TrimTablePanel_inj_trim1Tbl_egoSensorIndex=0
+combinedCLidleClosed-Loop\ Idle\ Settings_height=574
 can_outpc_bcast_4CAN\ Realtime\ Data\ Broadcasting\ 4_X=1005
+TrimTablePanel_inj_trim1Tbl_egoSensorIndex=0
 EAEBAWCcurveEAE\ Adhere-to-walls\ Coefficient_height=497
 TrimTablePanel_inj_trimbTbl_lambdaChannel=afr1
-fan_controlFan\ Control_height=574
 engine_state_settingsEngine\ State\ Settings_height=564
+fan_controlFan\ Control_height=574
 baseEngine\ and\ Sequential\ Settings_height=488
 knockSettings4Knock\ Sensor\ Parameters_width=441
 ShiftSettingsSequential\ Shift\ Cut_height=682

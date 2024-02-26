@@ -1,0 +1,40 @@
+#Project Attributes.
+#TunerStudio by EFI Analytics, Inc
+#Last Saved on: Sat Jan 27 18:51:25 EST 2024
+#Sat Jan 27 18:51:25 EST 2024
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceCom\ Port=COM2
+commPort=COM1
+CommSettingMSCommDriver.controllerInterfaceId=RS232 Serial Interface
+CommSettingBaud\ Rate=115200
+canId=0
+userDash0.FileName=Acceleration_Performance.dash
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+Triggers.ActiveTriggers=syncLossDetect|cltTempWarning|TriggeredPage0 Refresh\:  vssRefresh > 0 |
+projectDescription=
+useCommonTuneViewDir=false
+CommSettingGARAGEPCCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+CommSettingCom\ Port=COM1
+baudRate=115200
+CommSettingGARAGEPCCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+engine_constantsEngine\ Constants_height=625
+engine_constantsEngine\ Constants_Y=203
+engine_constantsEngine\ Constants_X=663
+CommSettingGARAGEPCCommDriver.RS232\ Serial\ InterfaceCom\ Port=COM2
+ecuConfigFile=mainController.ini
+triggerSettingsTrigger\ Settings_width=399
+firmwareDescription=Speeduino 2023.10
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+logFileDir=C\:\\Users\\alejo\\OneDrive\\TunerStudioFiles\\Speeduino_Test\\DataLogs
+logTuningPanel_selectionTable2=sparkTbl
+logTuningPanel_selectionTable1=veTable1Tbl
+userDash0.DashName=Acceleration Performance
+selectedComDriver=Multi Interface MegaSquirt Driver
+engine_constantsEngine\ Constants_width=583
+useCommonDashboardDir=false
+projectName=Speeduino_Test
+ecuSettings=AFR|FAHRENHEIT|enablehardware_test_OFF|resetcontrol_standard|
+triggerSettingsTrigger\ Settings_Y=211
+CommSettingGARAGEPCCommDriver.controllerInterfaceId=RS232 Serial Interface
+triggerSettingsTrigger\ Settings_X=835
+dashBoardFile=\\dashboard\\\\dashboard.dash
+triggerSettingsTrigger\ Settings_height=560
