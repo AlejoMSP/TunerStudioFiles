@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-<bibliography author="TunerStudio MS Ultra 3.1.08 - EFI Analytics, Inc." tuneComment="" writeDate="Mon Feb 26 14:25:22 EST 2024"/>
-<versionInfo fileFormat="5.0" firmwareInfo="Speeduino+2024.02" nPages="15" signature="speeduino 202402"/>
+<bibliography author="TunerStudio MS Ultra 3.1.08 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: Project close - &lt;br&gt;" writeDate="Mon Feb 26 14:06:02 EST 2024"/>
+<versionInfo fileFormat="5.0" firmwareInfo="Speeduino+2024.02" nPages="15" signature="speeduino 202310"/>
 <page>
 <pcVariable name="tsCanId">"0"</pcVariable>
 <pcVariable name="tsCanId">"CAN ID 0"</pcVariable>
@@ -628,7 +628,8 @@
 <constant digits="0" name="mapSwitchPoint" units="RPM">0.0</constant>
 <constant name="canBMWCluster">"Off"</constant>
 <constant name="canVAGCluster">"Off"</constant>
-<constant name="canWBO">"Off"</constant>
+<constant name="enable1Cluster">"On"</constant>
+<constant name="enable2Cluster">"On"</constant>
 <constant name="vssAuxCh">"Aux0"</constant>
 <constant digits="0" name="decelAmount" units="%">100.0</constant>
 </page>
@@ -1557,22 +1558,22 @@
 <constant name="caninput_source_can_address13">"0x100"</constant>
 <constant name="caninput_source_can_address14">"0x100"</constant>
 <constant name="caninput_source_can_address15">"0x100"</constant>
-<constant digits="0" name="caninput_source_start_byte0">7.0</constant>
-<constant digits="0" name="caninput_source_start_byte1">1.0</constant>
-<constant digits="0" name="caninput_source_start_byte2">1.0</constant>
-<constant digits="0" name="caninput_source_start_byte3">1.0</constant>
-<constant digits="0" name="caninput_source_start_byte4">1.0</constant>
-<constant digits="0" name="caninput_source_start_byte5">1.0</constant>
-<constant digits="0" name="caninput_source_start_byte6">1.0</constant>
-<constant digits="0" name="caninput_source_start_byte7">1.0</constant>
-<constant digits="0" name="caninput_source_start_byte8">1.0</constant>
-<constant digits="0" name="caninput_source_start_byte9">7.0</constant>
-<constant digits="0" name="caninput_source_start_byte10">7.0</constant>
-<constant digits="0" name="caninput_source_start_byte11">7.0</constant>
-<constant digits="0" name="caninput_source_start_byte12">7.0</constant>
-<constant digits="0" name="caninput_source_start_byte13">7.0</constant>
-<constant digits="0" name="caninput_source_start_byte14">7.0</constant>
-<constant digits="0" name="caninput_source_start_byte15">7.0</constant>
+<constant name="caninput_source_start_byte0">"7"</constant>
+<constant name="caninput_source_start_byte1">"1"</constant>
+<constant name="caninput_source_start_byte2">"1"</constant>
+<constant name="caninput_source_start_byte3">"1"</constant>
+<constant name="caninput_source_start_byte4">"1"</constant>
+<constant name="caninput_source_start_byte5">"1"</constant>
+<constant name="caninput_source_start_byte6">"1"</constant>
+<constant name="caninput_source_start_byte7">"1"</constant>
+<constant name="caninput_source_start_byte8">"1"</constant>
+<constant name="caninput_source_start_byte9">"7"</constant>
+<constant name="caninput_source_start_byte10">"7"</constant>
+<constant name="caninput_source_start_byte11">"7"</constant>
+<constant name="caninput_source_start_byte12">"7"</constant>
+<constant name="caninput_source_start_byte13">"7"</constant>
+<constant name="caninput_source_start_byte14">"7"</constant>
+<constant name="caninput_source_start_byte15">"7"</constant>
 <constant name="caninput_source_num_bytes0">"2"</constant>
 <constant name="caninput_source_num_bytes1">"2"</constant>
 <constant name="caninput_source_num_bytes2">"2"</constant>
@@ -1628,8 +1629,8 @@
 <constant name="canoutput_param_num_bytes7">"1"</constant>
 <constant digits="0" name="unused10_110">0.0</constant>
 <constant digits="0" name="unused10_111">0.0</constant>
-<constant digits="0" name="egoMAPMax" units="kPa">510.0</constant>
-<constant digits="0" name="egoMAPMin" units="kPa">0.0</constant>
+<constant digits="0" name="unused10_112">0.0</constant>
+<constant digits="0" name="unused10_113">0.0</constant>
 <constant name="speeduino_tsCanId">"CAN ID 0"</constant>
 <constant name="true_address">"0x100"</constant>
 <constant name="realtime_base_address">"0x100"</constant>
@@ -1702,13 +1703,14 @@
          -27.414 
          -27.414 
       </constant>
-<constant digits="0" name="unused10_179">7.0</constant>
-<constant digits="1" name="dfcoTaperTime" units="S">1.0</constant>
-<constant digits="0" name="dfcoTaperFuel" units="%">100.0</constant>
-<constant digits="0" name="dfcoTaperAdvance" units="deg">20.0</constant>
-<constant name="dfcoTaperEnable">"Off"</constant>
-<constant name="unused10_182">"3"</constant>
-<constant digits="0" name="unused10_184">7.0</constant>
+<constant cols="1" digits="0" name="unused179_184" rows="6">
+         7.0 
+         7.0 
+         7.0 
+         7.0 
+         7.0 
+         7.0 
+      </constant>
 <constant name="afrProtectEnabled">"Off"</constant>
 <constant digits="0" name="afrProtectMAP" units="kPa">180.0</constant>
 <constant digits="0" name="afrProtectRPM" units="RPM">4000.0</constant>
@@ -2029,7 +2031,7 @@
       </constant>
 </page>
 <page number="11" size="192">
-<constant cols="8" digits="1" name="wmiTable" rows="8" units="%">
+<constant cols="8" digits="0" name="wmiTable" rows="8" units="%">
          255.0 255.0 255.0 255.0 255.0 255.0 255.0 255.0 
          255.0 255.0 255.0 255.0 255.0 255.0 255.0 255.0 
          255.0 255.0 255.0 255.0 255.0 255.0 255.0 255.0 
@@ -2306,8 +2308,10 @@
 <constant digits="2" name="onboard_log_tr4_thr_off" units="V">0.0</constant>
 <constant name="onboard_log_tr5_Epin_pin">"43"</constant>
 <constant name="unused13_125_2">","</constant>
-<constant digits="0" name="hwTestIgnDuration" units="ms">4.0</constant>
-<constant digits="0" name="hwTestInjDuration" units="ms">8.0</constant>
+<constant cols="1" digits="0" name="unused12_125_127" rows="2" units="%">
+         107.0 
+         107.0 
+      </constant>
 </page>
 <page number="13" size="288">
 <constant cols="16" digits="0" name="advTable2" rows="16" units="deg">
@@ -2438,7 +2442,15 @@
          80.0 
          95.0 
       </constant>
-<constant cols="1" digits="0" name="Unused15_106_255" rows="150" units="%">
+<constant cols="1" digits="0" name="Unused15_98_255" rows="150" units="%">
+         226.0 
+         236.0 
+         246.0 
+         251.0 
+         50.0 
+         65.0 
+         80.0 
+         95.0 
          255.0 
          255.0 
          255.0 
@@ -2581,14 +2593,16 @@
          255.0 
          255.0 
          255.0 
-         0.0 
-         0.0 
-         0.0 
-         0.0 
-         0.0 
-         0.0 
-         0.0 
-         0.0 
+      </constant>
+<constant cols="1" digits="0" name="UNALLOCATED_TOP_14" rows="8" units="RAW">
+         255.0 
+         255.0 
+         255.0 
+         255.0 
+         255.0 
+         255.0 
+         255.0 
+         255.0 
       </constant>
 </page>
 <settings Comment="These setting are only used if this msq is opened without a project.">
